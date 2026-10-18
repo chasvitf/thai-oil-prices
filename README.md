@@ -2,7 +2,7 @@
 
 ระบบดึงราคาน้ำมันขายปลีกกรุงเทพฯ ของ ปตท. และบางจากอัตโนมัติวันละ 2 ครั้ง เก็บประวัติเป็น CSV / Excel และแสดงบนเว็บ
 
-**เปิดดู: https://thai-oil-prices.vercel.app**
+**เปิดดู: https://oilprice-th.vercel.app**
 
 ![หน้าเว็บ](docs/screenshot.png)
 
