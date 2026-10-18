@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ราคาน้ำมันวันนี้ ปตท. เทียบ บางจาก · อัปเดตอัตโนมัติ</title>
+  <meta name="description" content="ราคาน้ำมันขายปลีกกรุงเทพฯ วันนี้ของ ปตท. และบางจาก พร้อมราคาพรุ่งนี้เมื่อมีประกาศ กราฟย้อนหลัง 1 ปี และดาวน์โหลด Excel / CSV ดึงข้อมูลอัตโนมัติวันละ 2 ครั้งด้วย Python + GitHub Actions">
+  <meta name="theme-color" content="#0f172a">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ราคาน้ำมันวันนี้ ปตท. เทียบ บางจาก">
+  <meta property="og:description" content="อัปเดตอัตโนมัติวันละ 2 ครั้ง กราฟย้อนหลัง 1 ปี ดาวน์โหลด Excel / CSV ได้">
+  <meta property="og:image" content="https://thai-oil-prices.vercel.app/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="kicker"><span class="live"></span>อัปเดตอัตโนมัติ <span id="updated">…</span></p>
+      <h1>ราคาน้ำมันวันนี้</h1>
+      <p class="sub">ราคาขายปลีกกรุงเทพฯ ของ <b class="ptt">ปตท.</b> และ <b class="bcp">บางจาก</b> · <span id="since"></span></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="alert" id="tomorrow" hidden></div>
+
+    <section class="board" aria-labelledby="t-today">
+      <h2 id="t-today" class="sr">ราคาวันนี้</h2>
+      <table class="prices">
+        <thead><tr><th>น้ำมัน</th><th class="ptt">ปตท.</th><th class="bcp">บางจาก</th><th class="diff">ต่างกัน</th></tr></thead>
+        <tbody id="rows"><tr><td colspan="4" class="muted">กำลังโหลดราคา…</td></tr></tbody>
+      </table>
+      <p class="note">บาท/ลิตร · ไม่รวมภาษีบำรุงท้องถิ่น กทม. · ราคาจริงตามสถานีบริการอาจต่างเล็กน้อย</p>
+    </section>
+
+    <section class="chart-box" aria-labelledby="t-chart">
+      <div class="chart-head">
+        <h2 id="t-chart">ราคาย้อนหลัง</h2>
+        <div class="seg" id="range" role="group" aria-label="ช่วงเวลา">
+          <button data-days="90">3 เดือน</button><button data-days="182">6 เดือน</button><button data-days="366" class="on">1 ปี</button>
+        </div>
+      </div>
+      <div class="chips" id="products" role="group" aria-label="เลือกชนิดน้ำมัน"></div>
+      <div class="chart" id="chart"><p class="muted">กำลังโหลดกราฟ…</p></div>
+      <p class="legend"><span class="ptt">━ ปตท.</span> <span class="bcp">━ บางจาก</span> <span class="muted" id="chartNote"></span></p>
+    </section>
+
+    <section class="get" aria-labelledby="t-get">
+      <h2 id="t-get">เอาข้อมูลไปใช้ต่อ</h2>
+      <div class="dl">
+        <a id="xlsx" class="btn primary" href="#">ดาวน์โหลด Excel</a>
+        <a id="csv" class="btn" href="#">ดาวน์โหลด CSV</a>
+        <a class="btn" href="https://github.com/chasvitf/thai-oil-prices" target="_blank" rel="noopener">ซอร์สโค้ด Python</a>
+      </div>
+      <p class="muted">Excel มีแท็บ “วันนี้” เทียบ 2 แบรนด์ แท็บรายวันแยกแบรนด์ และข้อมูลดิบทั้งหมด · ดึงเข้า Google Sheets ได้ด้วยสูตร <code>=IMPORTDATA("https://raw.githubusercontent.com/chasvitf/thai-oil-prices/main/data/daily.csv")</code></p>
+    </section>
+
+    <section class="how" aria-labelledby="t-how">
+      <h2 id="t-how">ทำงานอย่างไร</h2>
+      <ol class="flow">
+        <li><b>ตั้งเวลา</b><span>GitHub Actions รันเองทุกวัน 05:30 และ 19:00 น. ไม่ต้องเปิดคอมทิ้งไว้</span></li>
+        <li><b>ดึงข้อมูล</b><span>Python ขอราคาจากเว็บเซอร์วิสของ ปตท. และหน้าเว็บราคาน้ำมันของบางจาก แล้วจับคู่ชนิดน้ำมันที่ชื่อต่างกัน</span></li>
+        <li><b>เก็บและส่งออก</b><span>บันทึกลง CSV และสร้าง Excel ด้วย pandas เก็บประวัติทุกวันใน Git</span></li>
+        <li><b>แจ้งเตือน</b><span>ถ้ามีประกาศราคาพรุ่งนี้ ส่งข้อความเข้า Telegram (หรือ LINE / อีเมล) ได้ทันที</span></li>
+      </ol>
+      <p class="muted">ประวัติการรันทุกครั้งเปิดดูได้ที่ <a href="https://github.com/chasvitf/thai-oil-prices/actions" target="_blank" rel="noopener">GitHub Actions</a> · ราคา ปตท. ย้อนหลังดึงจากเว็บเซอร์วิสเดียวกัน ส่วนบางจากเริ่มเก็บตั้งแต่ 19 ต.ค. 2569</p>
+    </section>
+  </main>
+
+  <footer class="foot wrap">
+    <p>ทำโดย <a href="https://chanavee.vercel.app" target="_blank" rel="noopener">Chanavee Pimprong</a> · <a href="https://fastwork.co/user/chasvitf/web-scraping-44359489" target="_blank" rel="noopener">รับดึงข้อมูลเว็บ / ทำระบบอัตโนมัติด้วย Python บน Fastwork</a></p>
+    <p class="muted">ข้อมูลจาก <a href="https://orapiweb.pttor.com/oilservice/OilPrice.asmx" target="_blank" rel="noopener">เว็บเซอร์วิสราคาน้ำมัน ปตท. (PTTOR)</a> และ <a href="https://www.bangchak.co.th/th/oilprice" target="_blank" rel="noopener">บางจาก</a> · เว็บนี้ไม่ได้เกี่ยวข้องกับทั้งสองบริษัท ใช้เพื่อดูข้อมูลเท่านั้น</p>
+  </footer>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

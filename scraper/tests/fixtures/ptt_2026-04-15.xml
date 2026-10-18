@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
+  <soap:Body>
+    <GetOilPriceResponse xmlns="http://www.pttor.com">
+      <GetOilPriceResult>&lt;PTTOR_DS&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;ดีเซล B20&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;37.40&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;ดีเซล&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;44.40&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;เบนซินแก๊สโซฮอล์ E20&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;35.95&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;เบนซินแก๊สโซฮอล์ 91&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;42.58&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;เบนซินแก๊สโซฮอล์ 95&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;42.95&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;เบนซิน&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;52.54&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;Super Power GSH95&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;52.04&lt;/PRICE&gt;
+                &lt;/FUEL&gt;
+                &lt;FUEL&gt;
+                    &lt;PRICE_DATE&gt;04/11/2026 5:00:00 AM&lt;/PRICE_DATE&gt;
+                    &lt;PRODUCT&gt;Super Power Diesel&lt;/PRODUCT&gt;
+                    &lt;PRICE&gt;66.30&lt;/PRICE&gt;
+                &lt;/FUEL&gt;&lt;/PTTOR_DS&gt;</GetOilPriceResult>
+    </GetOilPriceResponse>
+  </soap:Body>
+</soap:Envelope>
