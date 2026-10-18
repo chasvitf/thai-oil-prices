@@ -41,7 +41,7 @@ b.bcp, th.bcp, .legend .bcp { color: var(--bcp); }
 
 .hero { background: var(--hero); color: #fff; padding: 36px 0 30px; }
 .hero h1 { font-size: clamp(34px, 6vw, 52px); line-height: 1.15; margin: 6px 0 4px; }
-.hero .sub { margin: 0; color: #c7d0e0; }
+.hero .sub { margin: 0; color: #c7d0e0; min-height: 1.6em; }
 .hero b.ptt { color: #9db8ff; }
 .hero b.bcp { color: #7ee2a0; }
 .kicker { margin: 0; display: flex; align-items: center; gap: 8px; color: #c7d0e0; font-size: 14px; }
@@ -58,9 +58,12 @@ h2 { font-size: 20px; margin: 0 0 10px; }
 .prices { width: 100%; border-collapse: collapse; }
 .prices th { font-size: 14px; font-weight: 600; text-align: right; padding: 6px 8px; border-bottom: 2px solid var(--line); }
 .prices th:first-child { text-align: left; color: var(--muted); }
-.prices td { padding: 11px 8px; border-bottom: 1px solid var(--line); text-align: right; vertical-align: middle; }
+/* Fixed row height: Thai fonts have tall metrics, so when the web font replaces the fallback
+   the line boxes change size; a fixed height keeps the table (and everything below) still. */
+.prices th { height: 40px; }
+.prices td { height: 58px; padding: 4px 8px; border-bottom: 1px solid var(--line); text-align: right; vertical-align: middle; line-height: 1.35; }
 .prices td:first-child { text-align: left; font-weight: 500; }
-.prices .num { font: 700 22px "JetBrains Mono", monospace; letter-spacing: -.5px; }
+.prices .num { font: 700 22px/1.2 "JetBrains Mono", monospace; letter-spacing: -.5px; }
 .prices .cheap { display: inline-block; font: 600 11px "IBM Plex Sans Thai", sans-serif; color: var(--down); border: 1px solid currentColor; border-radius: 99px; padding: 0 6px; margin-right: 6px; vertical-align: 3px; }
 .prices .na { color: var(--muted); font-size: 14px; }
 .prices .ph { color: var(--line); }
