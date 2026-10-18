@@ -1,0 +1,2890 @@
+date,brand,product,name,price
+2025-10-19,ptt,diesel,ดีเซล,31.44
+2025-10-19,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2025-10-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.78
+2025-10-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,32.15
+2025-10-19,ptt,premium_gasohol_95,Super Power GSH95,40.34
+2025-10-19,ptt,benzine_95,เบนซิน,40.44
+2025-10-20,ptt,diesel,ดีเซล,31.44
+2025-10-20,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2025-10-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.78
+2025-10-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,32.15
+2025-10-20,ptt,premium_gasohol_95,Super Power GSH95,40.34
+2025-10-20,ptt,benzine_95,เบนซิน,40.44
+2025-10-21,ptt,diesel,ดีเซล,30.94
+2025-10-21,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-21,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-21,ptt,benzine_95,เบนซิน,40.14
+2025-10-22,ptt,diesel,ดีเซล,30.94
+2025-10-22,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-22,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-22,ptt,benzine_95,เบนซิน,40.14
+2025-10-23,ptt,diesel,ดีเซล,30.94
+2025-10-23,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-23,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-23,ptt,benzine_95,เบนซิน,40.14
+2025-10-24,ptt,diesel,ดีเซล,30.94
+2025-10-24,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-24,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-24,ptt,benzine_95,เบนซิน,40.14
+2025-10-25,ptt,diesel,ดีเซล,30.94
+2025-10-25,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-25,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-25,ptt,benzine_95,เบนซิน,40.14
+2025-10-26,ptt,diesel,ดีเซล,30.94
+2025-10-26,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-26,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-26,ptt,benzine_95,เบนซิน,40.14
+2025-10-27,ptt,diesel,ดีเซล,30.94
+2025-10-27,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-27,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-27,ptt,benzine_95,เบนซิน,40.14
+2025-10-28,ptt,diesel,ดีเซล,30.94
+2025-10-28,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-28,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-28,ptt,benzine_95,เบนซิน,40.14
+2025-10-29,ptt,diesel,ดีเซล,30.94
+2025-10-29,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-29,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-29,ptt,benzine_95,เบนซิน,40.14
+2025-10-30,ptt,diesel,ดีเซล,30.94
+2025-10-30,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-30,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-30,ptt,benzine_95,เบนซิน,40.14
+2025-10-31,ptt,diesel,ดีเซล,30.94
+2025-10-31,ptt,premium_diesel,Super Power Diesel,43.44
+2025-10-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-10-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-10-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-10-31,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-10-31,ptt,benzine_95,เบนซิน,40.14
+2025-11-01,ptt,diesel,ดีเซล,30.94
+2025-11-01,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-01,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-01,ptt,benzine_95,เบนซิน,40.14
+2025-11-02,ptt,diesel,ดีเซล,30.94
+2025-11-02,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-02,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-02,ptt,benzine_95,เบนซิน,40.14
+2025-11-03,ptt,diesel,ดีเซล,30.94
+2025-11-03,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-03,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-03,ptt,benzine_95,เบนซิน,40.14
+2025-11-04,ptt,diesel,ดีเซล,30.94
+2025-11-04,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-04,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-04,ptt,benzine_95,เบนซิน,40.14
+2025-11-05,ptt,diesel,ดีเซล,30.94
+2025-11-05,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-05,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-05,ptt,benzine_95,เบนซิน,40.14
+2025-11-06,ptt,diesel,ดีเซล,30.94
+2025-11-06,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-06,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-06,ptt,benzine_95,เบนซิน,40.14
+2025-11-07,ptt,diesel,ดีเซล,30.94
+2025-11-07,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-07,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-07,ptt,benzine_95,เบนซิน,40.14
+2025-11-08,ptt,diesel,ดีเซล,30.94
+2025-11-08,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-08,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-08,ptt,benzine_95,เบนซิน,40.14
+2025-11-09,ptt,diesel,ดีเซล,30.94
+2025-11-09,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-09,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-09,ptt,benzine_95,เบนซิน,40.14
+2025-11-10,ptt,diesel,ดีเซล,30.94
+2025-11-10,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-10,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-10,ptt,benzine_95,เบนซิน,40.14
+2025-11-11,ptt,diesel,ดีเซล,30.94
+2025-11-11,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-11,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-11,ptt,benzine_95,เบนซิน,40.14
+2025-11-12,ptt,diesel,ดีเซล,30.94
+2025-11-12,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-12,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-12,ptt,benzine_95,เบนซิน,40.14
+2025-11-13,ptt,diesel,ดีเซล,30.94
+2025-11-13,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-13,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-13,ptt,benzine_95,เบนซิน,40.14
+2025-11-14,ptt,diesel,ดีเซล,30.94
+2025-11-14,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-14,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-14,ptt,benzine_95,เบนซิน,40.14
+2025-11-15,ptt,diesel,ดีเซล,30.94
+2025-11-15,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-15,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-15,ptt,benzine_95,เบนซิน,40.14
+2025-11-16,ptt,diesel,ดีเซล,30.94
+2025-11-16,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-16,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-16,ptt,benzine_95,เบนซิน,40.14
+2025-11-17,ptt,diesel,ดีเซล,30.94
+2025-11-17,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-17,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-17,ptt,benzine_95,เบนซิน,40.14
+2025-11-18,ptt,diesel,ดีเซล,30.94
+2025-11-18,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-18,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-18,ptt,benzine_95,เบนซิน,40.14
+2025-11-19,ptt,diesel,ดีเซล,30.94
+2025-11-19,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-19,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-19,ptt,benzine_95,เบนซิน,40.14
+2025-11-20,ptt,diesel,ดีเซล,30.94
+2025-11-20,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-20,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-20,ptt,benzine_95,เบนซิน,40.14
+2025-11-21,ptt,diesel,ดีเซล,30.94
+2025-11-21,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-21,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-21,ptt,benzine_95,เบนซิน,40.14
+2025-11-22,ptt,diesel,ดีเซล,30.94
+2025-11-22,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-22,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-22,ptt,benzine_95,เบนซิน,40.14
+2025-11-23,ptt,diesel,ดีเซล,30.94
+2025-11-23,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-23,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-23,ptt,benzine_95,เบนซิน,40.14
+2025-11-24,ptt,diesel,ดีเซล,30.94
+2025-11-24,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-24,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-24,ptt,benzine_95,เบนซิน,40.14
+2025-11-25,ptt,diesel,ดีเซล,30.94
+2025-11-25,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-25,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-25,ptt,benzine_95,เบนซิน,40.14
+2025-11-26,ptt,diesel,ดีเซล,30.94
+2025-11-26,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-26,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-26,ptt,benzine_95,เบนซิน,40.14
+2025-11-27,ptt,diesel,ดีเซล,30.94
+2025-11-27,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-27,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-27,ptt,benzine_95,เบนซิน,40.14
+2025-11-28,ptt,diesel,ดีเซล,30.94
+2025-11-28,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-28,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-28,ptt,benzine_95,เบนซิน,40.14
+2025-11-29,ptt,diesel,ดีเซล,30.94
+2025-11-29,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-29,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-29,ptt,benzine_95,เบนซิน,40.14
+2025-11-30,ptt,diesel,ดีเซล,30.94
+2025-11-30,ptt,premium_diesel,Super Power Diesel,43.44
+2025-11-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-11-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-11-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-11-30,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-11-30,ptt,benzine_95,เบนซิน,40.14
+2025-12-01,ptt,diesel,ดีเซล,30.94
+2025-12-01,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-01,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-01,ptt,benzine_95,เบนซิน,40.14
+2025-12-02,ptt,diesel,ดีเซล,30.94
+2025-12-02,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-02,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-02,ptt,benzine_95,เบนซิน,40.14
+2025-12-03,ptt,diesel,ดีเซล,30.94
+2025-12-03,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-03,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-03,ptt,benzine_95,เบนซิน,40.14
+2025-12-04,ptt,diesel,ดีเซล,30.94
+2025-12-04,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-04,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-04,ptt,benzine_95,เบนซิน,40.14
+2025-12-05,ptt,diesel,ดีเซล,30.94
+2025-12-05,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-05,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-05,ptt,benzine_95,เบนซิน,40.14
+2025-12-06,ptt,diesel,ดีเซล,30.94
+2025-12-06,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-06,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-06,ptt,benzine_95,เบนซิน,40.14
+2025-12-07,ptt,diesel,ดีเซล,30.94
+2025-12-07,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-07,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-07,ptt,benzine_95,เบนซิน,40.14
+2025-12-08,ptt,diesel,ดีเซล,30.94
+2025-12-08,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-08,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-08,ptt,benzine_95,เบนซิน,40.14
+2025-12-09,ptt,diesel,ดีเซล,30.94
+2025-12-09,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-09,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-09,ptt,benzine_95,เบนซิน,40.14
+2025-12-10,ptt,diesel,ดีเซล,30.94
+2025-12-10,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-10,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-10,ptt,benzine_95,เบนซิน,40.14
+2025-12-11,ptt,diesel,ดีเซล,30.94
+2025-12-11,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-11,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-11,ptt,benzine_95,เบนซิน,40.14
+2025-12-12,ptt,diesel,ดีเซล,30.94
+2025-12-12,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-12,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-12,ptt,benzine_95,เบนซิน,40.14
+2025-12-13,ptt,diesel,ดีเซล,30.94
+2025-12-13,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-13,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-13,ptt,benzine_95,เบนซิน,40.14
+2025-12-14,ptt,diesel,ดีเซล,30.94
+2025-12-14,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-14,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-14,ptt,benzine_95,เบนซิน,40.14
+2025-12-15,ptt,diesel,ดีเซล,30.94
+2025-12-15,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-15,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-15,ptt,benzine_95,เบนซิน,40.14
+2025-12-16,ptt,diesel,ดีเซล,30.94
+2025-12-16,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-16,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-16,ptt,benzine_95,เบนซิน,40.14
+2025-12-17,ptt,diesel,ดีเซล,30.94
+2025-12-17,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-17,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-17,ptt,benzine_95,เบนซิน,40.14
+2025-12-18,ptt,diesel,ดีเซล,30.94
+2025-12-18,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-18,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-18,ptt,benzine_95,เบนซิน,40.14
+2025-12-19,ptt,diesel,ดีเซล,30.94
+2025-12-19,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-19,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-19,ptt,benzine_95,เบนซิน,40.14
+2025-12-20,ptt,diesel,ดีเซล,30.94
+2025-12-20,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-20,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-20,ptt,benzine_95,เบนซิน,40.14
+2025-12-21,ptt,diesel,ดีเซล,30.94
+2025-12-21,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-21,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-21,ptt,benzine_95,เบนซิน,40.14
+2025-12-22,ptt,diesel,ดีเซล,30.94
+2025-12-22,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-22,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-22,ptt,benzine_95,เบนซิน,40.14
+2025-12-23,ptt,diesel,ดีเซล,30.94
+2025-12-23,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.64
+2025-12-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.48
+2025-12-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.85
+2025-12-23,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-23,ptt,benzine_95,เบนซิน,40.14
+2025-12-24,ptt,diesel,ดีเซล,30.44
+2025-12-24,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-24,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-24,ptt,benzine_95,เบนซิน,39.64
+2025-12-25,ptt,diesel,ดีเซล,30.44
+2025-12-25,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-25,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-25,ptt,benzine_95,เบนซิน,39.64
+2025-12-26,ptt,diesel,ดีเซล,30.44
+2025-12-26,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-26,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-26,ptt,benzine_95,เบนซิน,39.64
+2025-12-27,ptt,diesel,ดีเซล,30.44
+2025-12-27,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-27,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-27,ptt,benzine_95,เบนซิน,39.64
+2025-12-28,ptt,diesel,ดีเซล,30.44
+2025-12-28,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-28,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-28,ptt,benzine_95,เบนซิน,39.64
+2025-12-29,ptt,diesel,ดีเซล,30.44
+2025-12-29,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-29,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-29,ptt,benzine_95,เบนซิน,39.64
+2025-12-30,ptt,diesel,ดีเซล,30.44
+2025-12-30,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-30,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-30,ptt,benzine_95,เบนซิน,39.64
+2025-12-31,ptt,diesel,ดีเซล,30.44
+2025-12-31,ptt,premium_diesel,Super Power Diesel,43.44
+2025-12-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2025-12-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2025-12-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2025-12-31,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2025-12-31,ptt,benzine_95,เบนซิน,39.64
+2026-01-01,ptt,diesel,ดีเซล,30.44
+2026-01-01,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-01,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-01,ptt,benzine_95,เบนซิน,39.64
+2026-01-02,ptt,diesel,ดีเซล,30.44
+2026-01-02,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-02,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-02,ptt,benzine_95,เบนซิน,39.64
+2026-01-03,ptt,diesel,ดีเซล,30.44
+2026-01-03,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-03,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-03,ptt,benzine_95,เบนซิน,39.64
+2026-01-04,ptt,diesel,ดีเซล,30.44
+2026-01-04,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-04,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-04,ptt,benzine_95,เบนซิน,39.64
+2026-01-05,ptt,diesel,ดีเซล,30.44
+2026-01-05,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-05,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-05,ptt,benzine_95,เบนซิน,39.64
+2026-01-06,ptt,diesel,ดีเซล,30.44
+2026-01-06,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-06,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-06,ptt,benzine_95,เบนซิน,39.64
+2026-01-07,ptt,diesel,ดีเซล,30.44
+2026-01-07,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-07,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-07,ptt,benzine_95,เบนซิน,39.64
+2026-01-08,ptt,diesel,ดีเซล,30.44
+2026-01-08,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.14
+2026-01-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.98
+2026-01-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.35
+2026-01-08,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-08,ptt,benzine_95,เบนซิน,39.64
+2026-01-09,ptt,diesel,ดีเซล,29.94
+2026-01-09,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-09,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-09,ptt,benzine_95,เบนซิน,39.14
+2026-01-10,ptt,diesel,ดีเซล,29.94
+2026-01-10,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-10,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-10,ptt,benzine_95,เบนซิน,39.14
+2026-01-11,ptt,diesel,ดีเซล,29.94
+2026-01-11,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-11,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-11,ptt,benzine_95,เบนซิน,39.14
+2026-01-12,ptt,diesel,ดีเซล,29.94
+2026-01-12,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-12,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-12,ptt,benzine_95,เบนซิน,39.14
+2026-01-13,ptt,diesel,ดีเซล,29.94
+2026-01-13,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-13,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-13,ptt,benzine_95,เบนซิน,39.14
+2026-01-14,ptt,diesel,ดีเซล,29.94
+2026-01-14,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-14,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-14,ptt,benzine_95,เบนซิน,39.14
+2026-01-15,ptt,diesel,ดีเซล,29.94
+2026-01-15,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-15,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-15,ptt,benzine_95,เบนซิน,39.14
+2026-01-16,ptt,diesel,ดีเซล,29.94
+2026-01-16,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-16,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-16,ptt,benzine_95,เบนซิน,39.14
+2026-01-17,ptt,diesel,ดีเซล,29.94
+2026-01-17,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-17,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-17,ptt,benzine_95,เบนซิน,39.14
+2026-01-18,ptt,diesel,ดีเซล,29.94
+2026-01-18,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-18,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-18,ptt,benzine_95,เบนซิน,39.14
+2026-01-19,ptt,diesel,ดีเซล,29.94
+2026-01-19,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-19,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-19,ptt,benzine_95,เบนซิน,39.14
+2026-01-20,ptt,diesel,ดีเซล,29.94
+2026-01-20,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-20,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-20,ptt,benzine_95,เบนซิน,39.14
+2026-01-21,ptt,diesel,ดีเซล,29.94
+2026-01-21,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-21,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-21,ptt,benzine_95,เบนซิน,39.14
+2026-01-22,ptt,diesel,ดีเซล,29.94
+2026-01-22,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-22,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-22,ptt,benzine_95,เบนซิน,39.14
+2026-01-23,ptt,diesel,ดีเซล,29.94
+2026-01-23,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-23,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-23,ptt,benzine_95,เบนซิน,39.14
+2026-01-24,ptt,diesel,ดีเซล,29.94
+2026-01-24,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-24,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-24,ptt,benzine_95,เบนซิน,39.14
+2026-01-25,ptt,diesel,ดีเซล,29.94
+2026-01-25,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-25,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-25,ptt,benzine_95,เบนซิน,39.14
+2026-01-26,ptt,diesel,ดีเซล,29.94
+2026-01-26,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-26,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-26,ptt,benzine_95,เบนซิน,39.14
+2026-01-27,ptt,diesel,ดีเซล,29.94
+2026-01-27,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-27,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-27,ptt,benzine_95,เบนซิน,39.14
+2026-01-28,ptt,diesel,ดีเซล,29.94
+2026-01-28,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-28,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-28,ptt,benzine_95,เบนซิน,39.14
+2026-01-29,ptt,diesel,ดีเซล,29.94
+2026-01-29,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-29,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-29,ptt,benzine_95,เบนซิน,39.14
+2026-01-30,ptt,diesel,ดีเซล,29.94
+2026-01-30,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-30,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-30,ptt,benzine_95,เบนซิน,39.14
+2026-01-31,ptt,diesel,ดีเซล,29.94
+2026-01-31,ptt,premium_diesel,Super Power Diesel,43.44
+2026-01-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-01-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-01-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-01-31,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-01-31,ptt,benzine_95,เบนซิน,39.14
+2026-02-01,ptt,diesel,ดีเซล,29.94
+2026-02-01,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-01,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-01,ptt,benzine_95,เบนซิน,39.14
+2026-02-02,ptt,diesel,ดีเซล,29.94
+2026-02-02,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-02,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-02,ptt,benzine_95,เบนซิน,39.14
+2026-02-03,ptt,diesel,ดีเซล,29.94
+2026-02-03,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-03,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-03,ptt,benzine_95,เบนซิน,39.14
+2026-02-04,ptt,diesel,ดีเซล,29.94
+2026-02-04,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-04,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-04,ptt,benzine_95,เบนซิน,39.14
+2026-02-05,ptt,diesel,ดีเซล,29.94
+2026-02-05,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-05,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-05,ptt,benzine_95,เบนซิน,39.14
+2026-02-06,ptt,diesel,ดีเซล,29.94
+2026-02-06,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-06,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-06,ptt,benzine_95,เบนซิน,39.14
+2026-02-07,ptt,diesel,ดีเซล,29.94
+2026-02-07,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-07,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-07,ptt,benzine_95,เบนซิน,39.14
+2026-02-08,ptt,diesel,ดีเซล,29.94
+2026-02-08,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-08,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-08,ptt,benzine_95,เบนซิน,39.14
+2026-02-09,ptt,diesel,ดีเซล,29.94
+2026-02-09,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-09,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-09,ptt,benzine_95,เบนซิน,39.14
+2026-02-10,ptt,diesel,ดีเซล,29.94
+2026-02-10,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-10,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-10,ptt,benzine_95,เบนซิน,39.14
+2026-02-11,ptt,diesel,ดีเซล,29.94
+2026-02-11,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-11,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-11,ptt,benzine_95,เบนซิน,39.14
+2026-02-12,ptt,diesel,ดีเซล,29.94
+2026-02-12,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-12,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-12,ptt,benzine_95,เบนซิน,39.14
+2026-02-13,ptt,diesel,ดีเซล,29.94
+2026-02-13,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-13,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-13,ptt,benzine_95,เบนซิน,39.14
+2026-02-14,ptt,diesel,ดีเซล,29.94
+2026-02-14,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-14,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-14,ptt,benzine_95,เบนซิน,39.14
+2026-02-15,ptt,diesel,ดีเซล,29.94
+2026-02-15,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-15,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-15,ptt,benzine_95,เบนซิน,39.14
+2026-02-16,ptt,diesel,ดีเซล,29.94
+2026-02-16,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-16,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-16,ptt,benzine_95,เบนซิน,39.14
+2026-02-17,ptt,diesel,ดีเซล,29.94
+2026-02-17,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.64
+2026-02-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.48
+2026-02-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.85
+2026-02-17,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-17,ptt,benzine_95,เบนซิน,39.14
+2026-02-18,ptt,diesel,ดีเซล,29.94
+2026-02-18,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-18,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-18,ptt,benzine_95,เบนซิน,39.14
+2026-02-19,ptt,diesel,ดีเซล,29.94
+2026-02-19,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-19,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-19,ptt,benzine_95,เบนซิน,39.14
+2026-02-20,ptt,diesel,ดีเซล,29.94
+2026-02-20,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-20,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-20,ptt,benzine_95,เบนซิน,39.14
+2026-02-21,ptt,diesel,ดีเซล,29.94
+2026-02-21,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-21,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-21,ptt,benzine_95,เบนซิน,39.14
+2026-02-22,ptt,diesel,ดีเซล,29.94
+2026-02-22,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-22,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-22,ptt,benzine_95,เบนซิน,39.14
+2026-02-23,ptt,diesel,ดีเซล,29.94
+2026-02-23,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-23,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-23,ptt,benzine_95,เบนซิน,39.14
+2026-02-24,ptt,diesel,ดีเซล,29.94
+2026-02-24,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-24,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-24,ptt,benzine_95,เบนซิน,39.14
+2026-02-25,ptt,diesel,ดีเซล,29.94
+2026-02-25,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-25,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-25,ptt,benzine_95,เบนซิน,39.14
+2026-02-26,ptt,diesel,ดีเซล,29.94
+2026-02-26,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-26,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-26,ptt,benzine_95,เบนซิน,39.14
+2026-02-27,ptt,diesel,ดีเซล,29.94
+2026-02-27,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-27,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-27,ptt,benzine_95,เบนซิน,39.14
+2026-02-28,ptt,diesel,ดีเซล,29.94
+2026-02-28,ptt,premium_diesel,Super Power Diesel,43.44
+2026-02-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-02-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-02-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-02-28,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-02-28,ptt,benzine_95,เบนซิน,39.14
+2026-03-01,ptt,diesel,ดีเซล,29.94
+2026-03-01,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-01,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-01,ptt,benzine_95,เบนซิน,39.14
+2026-03-02,ptt,diesel,ดีเซล,29.94
+2026-03-02,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-02,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-02,ptt,benzine_95,เบนซิน,39.14
+2026-03-03,ptt,diesel,ดีเซล,29.94
+2026-03-03,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-03,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-03,ptt,benzine_95,เบนซิน,39.14
+2026-03-04,ptt,diesel,ดีเซล,29.94
+2026-03-04,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-04,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-04,ptt,benzine_95,เบนซิน,39.14
+2026-03-05,ptt,diesel,ดีเซล,29.94
+2026-03-05,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-05,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-05,ptt,benzine_95,เบนซิน,39.14
+2026-03-06,ptt,diesel,ดีเซล,29.94
+2026-03-06,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-06,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-06,ptt,benzine_95,เบนซิน,39.14
+2026-03-07,ptt,diesel,ดีเซล,29.94
+2026-03-07,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-07,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-07,ptt,benzine_95,เบนซิน,39.14
+2026-03-08,ptt,diesel,ดีเซล,29.94
+2026-03-08,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-08,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-08,ptt,benzine_95,เบนซิน,39.14
+2026-03-09,ptt,diesel,ดีเซล,29.94
+2026-03-09,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.34
+2026-03-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.18
+2026-03-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,30.55
+2026-03-09,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-09,ptt,benzine_95,เบนซิน,39.14
+2026-03-10,ptt,diesel,ดีเซล,29.94
+2026-03-10,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-10,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-10,ptt,benzine_95,เบนซิน,39.64
+2026-03-11,ptt,diesel,ดีเซล,29.94
+2026-03-11,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-11,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-11,ptt,benzine_95,เบนซิน,39.64
+2026-03-12,ptt,diesel,ดีเซล,29.94
+2026-03-12,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-12,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-12,ptt,benzine_95,เบนซิน,39.64
+2026-03-13,ptt,diesel,ดีเซล,29.94
+2026-03-13,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-13,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-13,ptt,benzine_95,เบนซิน,39.64
+2026-03-14,ptt,diesel,ดีเซล,29.94
+2026-03-14,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-14,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-14,ptt,benzine_95,เบนซิน,39.64
+2026-03-15,ptt,diesel,ดีเซล,29.94
+2026-03-15,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-15,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-15,ptt,benzine_95,เบนซิน,39.64
+2026-03-16,ptt,diesel,ดีเซล,29.94
+2026-03-16,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-16,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-16,ptt,benzine_95,เบนซิน,39.64
+2026-03-17,ptt,diesel,ดีเซล,29.94
+2026-03-17,ptt,premium_diesel,Super Power Diesel,43.44
+2026-03-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.84
+2026-03-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,30.68
+2026-03-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,31.05
+2026-03-17,ptt,premium_gasohol_95,Super Power GSH95,40.04
+2026-03-17,ptt,benzine_95,เบนซิน,39.64
+2026-03-18,ptt,diesel,ดีเซล,30.44
+2026-03-18,ptt,premium_diesel,Super Power Diesel,43.94
+2026-03-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.05
+2026-03-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.68
+2026-03-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,32.05
+2026-03-18,ptt,premium_gasohol_95,Super Power GSH95,41.04
+2026-03-18,ptt,benzine_95,เบนซิน,40.64
+2026-03-19,ptt,diesel,ดีเซล,30.44
+2026-03-19,ptt,premium_diesel,Super Power Diesel,43.94
+2026-03-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.05
+2026-03-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.68
+2026-03-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,32.05
+2026-03-19,ptt,premium_gasohol_95,Super Power GSH95,41.04
+2026-03-19,ptt,benzine_95,เบนซิน,40.64
+2026-03-20,ptt,diesel,ดีเซล,30.44
+2026-03-20,ptt,premium_diesel,Super Power Diesel,43.94
+2026-03-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,27.05
+2026-03-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,31.68
+2026-03-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,32.05
+2026-03-20,ptt,premium_gasohol_95,Super Power GSH95,41.04
+2026-03-20,ptt,benzine_95,เบนซิน,40.64
+2026-03-21,ptt,diesel,ดีเซล,31.14
+2026-03-21,ptt,premium_diesel,Super Power Diesel,44.64
+2026-03-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.05
+2026-03-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,32.68
+2026-03-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,33.05
+2026-03-21,ptt,premium_gasohol_95,Super Power GSH95,42.04
+2026-03-21,ptt,benzine_95,เบนซิน,41.64
+2026-03-22,ptt,diesel,ดีเซล,31.14
+2026-03-22,ptt,premium_diesel,Super Power Diesel,44.64
+2026-03-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.05
+2026-03-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,32.68
+2026-03-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,33.05
+2026-03-22,ptt,premium_gasohol_95,Super Power GSH95,42.04
+2026-03-22,ptt,benzine_95,เบนซิน,41.64
+2026-03-23,ptt,diesel,ดีเซล,31.14
+2026-03-23,ptt,premium_diesel,Super Power Diesel,44.64
+2026-03-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,28.05
+2026-03-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,32.68
+2026-03-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,33.05
+2026-03-23,ptt,premium_gasohol_95,Super Power GSH95,42.04
+2026-03-23,ptt,benzine_95,เบนซิน,41.64
+2026-03-24,ptt,diesel,ดีเซล,32.94
+2026-03-24,ptt,premium_diesel,Super Power Diesel,46.64
+2026-03-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.05
+2026-03-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.68
+2026-03-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.05
+2026-03-24,ptt,premium_gasohol_95,Super Power GSH95,44.04
+2026-03-24,ptt,benzine_95,เบนซิน,43.64
+2026-03-25,ptt,diesel,ดีเซล,32.94
+2026-03-25,ptt,premium_diesel,Super Power Diesel,46.64
+2026-03-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.05
+2026-03-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.68
+2026-03-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.05
+2026-03-25,ptt,premium_gasohol_95,Super Power GSH95,44.04
+2026-03-25,ptt,benzine_95,เบนซิน,43.64
+2026-03-26,ptt,diesel,ดีเซล,38.94
+2026-03-26,ptt,premium_diesel,Super Power Diesel,54.64
+2026-03-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.05
+2026-03-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.68
+2026-03-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.05
+2026-03-26,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-03-26,ptt,benzine_95,เบนซิน,49.64
+2026-03-27,ptt,diesel,ดีเซล,38.94
+2026-03-27,ptt,premium_diesel,Super Power Diesel,54.64
+2026-03-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.05
+2026-03-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.68
+2026-03-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.05
+2026-03-27,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-03-27,ptt,benzine_95,เบนซิน,49.64
+2026-03-28,ptt,diesel,ดีเซล,38.94
+2026-03-28,ptt,premium_diesel,Super Power Diesel,54.64
+2026-03-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.05
+2026-03-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.68
+2026-03-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.05
+2026-03-28,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-03-28,ptt,benzine_95,เบนซิน,49.64
+2026-03-29,ptt,diesel,ดีเซล,38.94
+2026-03-29,ptt,premium_diesel,Super Power Diesel,54.64
+2026-03-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.05
+2026-03-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.68
+2026-03-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.05
+2026-03-29,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-03-29,ptt,benzine_95,เบนซิน,49.64
+2026-03-30,ptt,diesel,ดีเซล,38.94
+2026-03-30,ptt,premium_diesel,Super Power Diesel,54.64
+2026-03-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.05
+2026-03-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.68
+2026-03-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.05
+2026-03-30,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-03-30,ptt,benzine_95,เบนซิน,49.64
+2026-03-31,ptt,diesel,ดีเซล,40.74
+2026-03-31,ptt,premium_diesel,Super Power Diesel,56.44
+2026-03-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-03-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.68
+2026-03-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.05
+2026-03-31,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-03-31,ptt,benzine_95,เบนซิน,50.64
+2026-04-01,ptt,diesel,ดีเซล,40.74
+2026-04-01,ptt,premium_diesel,Super Power Diesel,56.44
+2026-04-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-04-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.68
+2026-04-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.05
+2026-04-01,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-01,ptt,benzine_95,เบนซิน,50.64
+2026-04-02,ptt,diesel,ดีเซล,44.24
+2026-04-02,ptt,premium_diesel,Super Power Diesel,59.94
+2026-04-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.25
+2026-04-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.88
+2026-04-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.25
+2026-04-02,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-02,ptt,benzine_95,เบนซิน,51.84
+2026-04-03,ptt,diesel_b20,ดีเซล B20,42.74
+2026-04-03,ptt,diesel,ดีเซล,47.74
+2026-04-03,ptt,premium_diesel,Super Power Diesel,63.94
+2026-04-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-03,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-03,ptt,benzine_95,เบนซิน,52.54
+2026-04-04,ptt,diesel_b20,ดีเซล B20,42.74
+2026-04-04,ptt,diesel,ดีเซล,47.74
+2026-04-04,ptt,premium_diesel,Super Power Diesel,63.94
+2026-04-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-04,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-04,ptt,benzine_95,เบนซิน,52.54
+2026-04-05,ptt,diesel_b20,ดีเซล B20,45.54
+2026-04-05,ptt,diesel,ดีเซล,50.54
+2026-04-05,ptt,premium_diesel,Super Power Diesel,70.44
+2026-04-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-05,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-05,ptt,benzine_95,เบนซิน,52.54
+2026-04-06,ptt,diesel_b20,ดีเซล B20,45.54
+2026-04-06,ptt,diesel,ดีเซล,50.54
+2026-04-06,ptt,premium_diesel,Super Power Diesel,70.44
+2026-04-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-06,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-06,ptt,benzine_95,เบนซิน,52.54
+2026-04-07,ptt,diesel_b20,ดีเซล B20,45.54
+2026-04-07,ptt,diesel,ดีเซล,50.54
+2026-04-07,ptt,premium_diesel,Super Power Diesel,70.44
+2026-04-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-07,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-07,ptt,benzine_95,เบนซิน,52.54
+2026-04-08,ptt,diesel_b20,ดีเซล B20,45.54
+2026-04-08,ptt,diesel,ดีเซล,50.54
+2026-04-08,ptt,premium_diesel,Super Power Diesel,70.44
+2026-04-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-08,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-08,ptt,benzine_95,เบนซิน,52.54
+2026-04-09,ptt,diesel_b20,ดีเซล B20,43.40
+2026-04-09,ptt,diesel,ดีเซล,48.40
+2026-04-09,ptt,premium_diesel,Super Power Diesel,68.30
+2026-04-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-09,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-09,ptt,benzine_95,เบนซิน,52.54
+2026-04-10,ptt,diesel_b20,ดีเซล B20,43.40
+2026-04-10,ptt,diesel,ดีเซล,48.40
+2026-04-10,ptt,premium_diesel,Super Power Diesel,68.30
+2026-04-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.95
+2026-04-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.58
+2026-04-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.95
+2026-04-10,ptt,premium_gasohol_95,Super Power GSH95,53.04
+2026-04-10,ptt,benzine_95,เบนซิน,52.54
+2026-04-11,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-11,ptt,diesel,ดีเซล,44.40
+2026-04-11,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-11,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-11,ptt,benzine_95,เบนซิน,52.54
+2026-04-12,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-12,ptt,diesel,ดีเซล,44.40
+2026-04-12,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-12,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-12,ptt,benzine_95,เบนซิน,52.54
+2026-04-13,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-13,ptt,diesel,ดีเซล,44.40
+2026-04-13,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-13,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-13,ptt,benzine_95,เบนซิน,52.54
+2026-04-14,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-14,ptt,diesel,ดีเซล,44.40
+2026-04-14,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-14,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-14,ptt,benzine_95,เบนซิน,52.54
+2026-04-15,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-15,ptt,diesel,ดีเซล,44.40
+2026-04-15,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-15,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-15,ptt,benzine_95,เบนซิน,52.54
+2026-04-16,ptt,diesel_b20,ดีเซล B20,37.40
+2026-04-16,ptt,diesel,ดีเซล,44.40
+2026-04-16,ptt,premium_diesel,Super Power Diesel,66.30
+2026-04-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.95
+2026-04-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.58
+2026-04-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.95
+2026-04-16,ptt,premium_gasohol_95,Super Power GSH95,52.04
+2026-04-16,ptt,benzine_95,เบนซิน,52.54
+2026-04-17,ptt,diesel_b20,ดีเซล B20,35.90
+2026-04-17,ptt,diesel,ดีเซล,42.90
+2026-04-17,ptt,premium_diesel,Super Power Diesel,64.80
+2026-04-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-17,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-17,ptt,benzine_95,เบนซิน,52.04
+2026-04-18,ptt,diesel_b20,ดีเซล B20,35.90
+2026-04-18,ptt,diesel,ดีเซล,42.90
+2026-04-18,ptt,premium_diesel,Super Power Diesel,64.80
+2026-04-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-18,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-18,ptt,benzine_95,เบนซิน,52.04
+2026-04-19,ptt,diesel_b20,ดีเซล B20,35.90
+2026-04-19,ptt,diesel,ดีเซล,42.90
+2026-04-19,ptt,premium_diesel,Super Power Diesel,64.80
+2026-04-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-19,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-19,ptt,benzine_95,เบนซิน,52.04
+2026-04-20,ptt,diesel_b20,ดีเซล B20,35.90
+2026-04-20,ptt,diesel,ดีเซล,42.90
+2026-04-20,ptt,premium_diesel,Super Power Diesel,64.80
+2026-04-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-20,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-20,ptt,benzine_95,เบนซิน,52.04
+2026-04-21,ptt,diesel_b20,ดีเซล B20,34.70
+2026-04-21,ptt,diesel,ดีเซล,41.70
+2026-04-21,ptt,premium_diesel,Super Power Diesel,63.60
+2026-04-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-21,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-21,ptt,benzine_95,เบนซิน,52.04
+2026-04-22,ptt,diesel_b20,ดีเซล B20,34.70
+2026-04-22,ptt,diesel,ดีเซล,41.70
+2026-04-22,ptt,premium_diesel,Super Power Diesel,63.60
+2026-04-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-22,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-22,ptt,benzine_95,เบนซิน,52.04
+2026-04-23,ptt,diesel_b20,ดีเซล B20,34.70
+2026-04-23,ptt,diesel,ดีเซล,41.70
+2026-04-23,ptt,premium_diesel,Super Power Diesel,63.60
+2026-04-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-23,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-23,ptt,benzine_95,เบนซิน,52.04
+2026-04-24,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-24,ptt,diesel,ดีเซล,40.20
+2026-04-24,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-24,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-24,ptt,benzine_95,เบนซิน,52.04
+2026-04-25,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-25,ptt,diesel,ดีเซล,40.20
+2026-04-25,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-25,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-25,ptt,benzine_95,เบนซิน,52.04
+2026-04-26,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-26,ptt,diesel,ดีเซล,40.20
+2026-04-26,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-26,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-26,ptt,benzine_95,เบนซิน,52.04
+2026-04-27,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-27,ptt,diesel,ดีเซล,40.20
+2026-04-27,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-27,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-27,ptt,benzine_95,เบนซิน,52.04
+2026-04-28,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-28,ptt,diesel,ดีเซล,40.20
+2026-04-28,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-28,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-28,ptt,benzine_95,เบนซิน,52.04
+2026-04-29,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-29,ptt,diesel,ดีเซล,40.20
+2026-04-29,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-29,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-29,ptt,benzine_95,เบนซิน,52.04
+2026-04-30,ptt,diesel_b20,ดีเซล B20,33.20
+2026-04-30,ptt,diesel,ดีเซล,40.20
+2026-04-30,ptt,premium_diesel,Super Power Diesel,62.10
+2026-04-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-04-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-04-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-04-30,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-04-30,ptt,benzine_95,เบนซิน,52.04
+2026-05-01,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-01,ptt,diesel,ดีเซล,40.80
+2026-05-01,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-01,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-01,ptt,benzine_95,เบนซิน,52.89
+2026-05-02,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-02,ptt,diesel,ดีเซล,40.80
+2026-05-02,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-02,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-02,ptt,benzine_95,เบนซิน,52.89
+2026-05-03,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-03,ptt,diesel,ดีเซล,40.80
+2026-05-03,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-03,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-03,ptt,benzine_95,เบนซิน,52.89
+2026-05-04,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-04,ptt,diesel,ดีเซล,40.80
+2026-05-04,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-04,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-04,ptt,benzine_95,เบนซิน,52.89
+2026-05-05,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-05,ptt,diesel,ดีเซล,40.80
+2026-05-05,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-05,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-05,ptt,benzine_95,เบนซิน,52.89
+2026-05-06,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-06,ptt,diesel,ดีเซล,40.80
+2026-05-06,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-06,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-06,ptt,benzine_95,เบนซิน,52.89
+2026-05-07,ptt,diesel_b20,ดีเซล B20,33.80
+2026-05-07,ptt,diesel,ดีเซล,40.80
+2026-05-07,ptt,premium_diesel,Super Power Diesel,62.10
+2026-05-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.30
+2026-05-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-05-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-05-07,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-07,ptt,benzine_95,เบนซิน,52.89
+2026-05-08,ptt,diesel_b20,ดีเซล B20,32.95
+2026-05-08,ptt,diesel,ดีเซล,39.95
+2026-05-08,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-05-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-05-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-05-08,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-08,ptt,benzine_95,เบนซิน,52.04
+2026-05-09,ptt,diesel_b20,ดีเซล B20,32.95
+2026-05-09,ptt,diesel,ดีเซล,39.95
+2026-05-09,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-05-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-05-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-05-09,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-09,ptt,benzine_95,เบนซิน,52.04
+2026-05-10,ptt,diesel_b20,ดีเซล B20,32.95
+2026-05-10,ptt,diesel,ดีเซล,39.95
+2026-05-10,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-05-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-05-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-05-10,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-10,ptt,benzine_95,เบนซิน,52.04
+2026-05-11,ptt,diesel_b20,ดีเซล B20,32.95
+2026-05-11,ptt,diesel,ดีเซล,39.95
+2026-05-11,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-05-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-05-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-05-11,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-11,ptt,benzine_95,เบนซิน,52.04
+2026-05-12,ptt,diesel_b20,ดีเซล B20,32.95
+2026-05-12,ptt,diesel,ดีเซล,39.95
+2026-05-12,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.45
+2026-05-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.08
+2026-05-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.45
+2026-05-12,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-12,ptt,benzine_95,เบนซิน,52.04
+2026-05-13,ptt,diesel_b20,ดีเซล B20,33.75
+2026-05-13,ptt,diesel,ดีเซล,40.75
+2026-05-13,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.35
+2026-05-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.98
+2026-05-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.35
+2026-05-13,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-13,ptt,benzine_95,เบนซิน,52.94
+2026-05-14,ptt,diesel_b20,ดีเซล B20,34.45
+2026-05-14,ptt,diesel,ดีเซล,41.45
+2026-05-14,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-05-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.68
+2026-05-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.05
+2026-05-14,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-14,ptt,benzine_95,เบนซิน,53.64
+2026-05-15,ptt,diesel_b20,ดีเซล B20,34.45
+2026-05-15,ptt,diesel,ดีเซล,41.45
+2026-05-15,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-05-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.68
+2026-05-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.05
+2026-05-15,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-15,ptt,benzine_95,เบนซิน,53.64
+2026-05-16,ptt,diesel_b20,ดีเซล B20,34.45
+2026-05-16,ptt,diesel,ดีเซล,41.45
+2026-05-16,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-05-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.68
+2026-05-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.05
+2026-05-16,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-16,ptt,benzine_95,เบนซิน,53.64
+2026-05-17,ptt,diesel_b20,ดีเซล B20,34.45
+2026-05-17,ptt,diesel,ดีเซล,41.45
+2026-05-17,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-05-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.68
+2026-05-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.05
+2026-05-17,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-17,ptt,benzine_95,เบนซิน,53.64
+2026-05-18,ptt,diesel_b20,ดีเซล B20,34.45
+2026-05-18,ptt,diesel,ดีเซล,41.45
+2026-05-18,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.05
+2026-05-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.68
+2026-05-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.05
+2026-05-18,ptt,premium_gasohol_95,Super Power GSH95,51.54
+2026-05-18,ptt,benzine_95,เบนซิน,53.64
+2026-05-19,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-19,ptt,diesel,ดีเซล,42.20
+2026-05-19,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-19,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-19,ptt,benzine_95,เบนซิน,54.49
+2026-05-20,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-20,ptt,diesel,ดีเซล,42.20
+2026-05-20,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-20,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-20,ptt,benzine_95,เบนซิน,54.49
+2026-05-21,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-21,ptt,diesel,ดีเซล,42.20
+2026-05-21,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-21,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-21,ptt,benzine_95,เบนซิน,54.49
+2026-05-22,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-22,ptt,diesel,ดีเซล,42.20
+2026-05-22,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-22,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-22,ptt,benzine_95,เบนซิน,54.49
+2026-05-23,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-23,ptt,diesel,ดีเซล,42.20
+2026-05-23,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-23,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-23,ptt,benzine_95,เบนซิน,54.49
+2026-05-24,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-24,ptt,diesel,ดีเซล,42.20
+2026-05-24,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-24,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-24,ptt,benzine_95,เบนซิน,54.49
+2026-05-25,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-25,ptt,diesel,ดีเซล,42.20
+2026-05-25,ptt,premium_diesel,Super Power Diesel,61.25
+2026-05-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,44.53
+2026-05-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.90
+2026-05-25,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-25,ptt,benzine_95,เบนซิน,54.49
+2026-05-26,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-26,ptt,diesel,ดีเซล,41.20
+2026-05-26,ptt,premium_diesel,Super Power Diesel,60.25
+2026-05-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.93
+2026-05-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.30
+2026-05-26,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-26,ptt,benzine_95,เบนซิน,53.89
+2026-05-27,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-27,ptt,diesel,ดีเซล,41.20
+2026-05-27,ptt,premium_diesel,Super Power Diesel,60.25
+2026-05-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.93
+2026-05-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.30
+2026-05-27,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-27,ptt,benzine_95,เบนซิน,53.89
+2026-05-28,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-28,ptt,diesel,ดีเซล,41.20
+2026-05-28,ptt,premium_diesel,Super Power Diesel,60.25
+2026-05-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.93
+2026-05-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,44.30
+2026-05-28,ptt,premium_gasohol_95,Super Power GSH95,52.39
+2026-05-28,ptt,benzine_95,เบนซิน,53.89
+2026-05-29,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-29,ptt,diesel,ดีเซล,41.20
+2026-05-29,ptt,premium_diesel,Super Power Diesel,59.25
+2026-05-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,43.23
+2026-05-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.60
+2026-05-29,ptt,premium_gasohol_95,Super Power GSH95,51.69
+2026-05-29,ptt,benzine_95,เบนซิน,53.19
+2026-05-30,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-30,ptt,diesel,ดีเซล,40.70
+2026-05-30,ptt,premium_diesel,Super Power Diesel,58.25
+2026-05-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.53
+2026-05-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.90
+2026-05-30,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-05-30,ptt,benzine_95,เบนซิน,52.49
+2026-05-31,ptt,diesel_b20,ดีเซล B20,35.20
+2026-05-31,ptt,diesel,ดีเซล,40.70
+2026-05-31,ptt,premium_diesel,Super Power Diesel,58.25
+2026-05-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-05-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.53
+2026-05-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.90
+2026-05-31,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-05-31,ptt,benzine_95,เบนซิน,52.49
+2026-06-01,ptt,diesel_b20,ดีเซล B20,35.20
+2026-06-01,ptt,diesel,ดีเซล,40.70
+2026-06-01,ptt,premium_diesel,Super Power Diesel,58.25
+2026-06-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-06-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.53
+2026-06-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.90
+2026-06-01,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-01,ptt,benzine_95,เบนซิน,52.49
+2026-06-02,ptt,diesel_b20,ดีเซล B20,35.20
+2026-06-02,ptt,diesel,ดีเซล,40.70
+2026-06-02,ptt,premium_diesel,Super Power Diesel,58.25
+2026-06-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-06-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.53
+2026-06-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.90
+2026-06-02,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-02,ptt,benzine_95,เบนซิน,52.49
+2026-06-03,ptt,diesel_b20,ดีเซล B20,35.20
+2026-06-03,ptt,diesel,ดีเซล,40.70
+2026-06-03,ptt,premium_diesel,Super Power Diesel,58.25
+2026-06-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.90
+2026-06-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.53
+2026-06-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.90
+2026-06-03,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-03,ptt,benzine_95,เบนซิน,52.49
+2026-06-04,ptt,diesel_b20,ดีเซล B20,36.00
+2026-06-04,ptt,diesel,ดีเซล,41.50
+2026-06-04,ptt,premium_diesel,Super Power Diesel,58.25
+2026-06-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.30
+2026-06-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-06-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-06-04,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-04,ptt,benzine_95,เบนซิน,52.89
+2026-06-05,ptt,diesel_b20,ดีเซล B20,36.00
+2026-06-05,ptt,diesel,ดีเซล,41.50
+2026-06-05,ptt,premium_diesel,Super Power Diesel,58.25
+2026-06-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.30
+2026-06-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.93
+2026-06-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.30
+2026-06-05,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-05,ptt,benzine_95,เบนซิน,52.89
+2026-06-06,ptt,diesel_b20,ดีเซล B20,35.30
+2026-06-06,ptt,diesel,ดีเซล,40.80
+2026-06-06,ptt,premium_diesel,Super Power Diesel,57.25
+2026-06-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.60
+2026-06-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.23
+2026-06-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.60
+2026-06-06,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-06,ptt,benzine_95,เบนซิน,52.19
+2026-06-07,ptt,diesel_b20,ดีเซล B20,35.30
+2026-06-07,ptt,diesel,ดีเซล,40.80
+2026-06-07,ptt,premium_diesel,Super Power Diesel,57.25
+2026-06-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.60
+2026-06-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.23
+2026-06-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.60
+2026-06-07,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-07,ptt,benzine_95,เบนซิน,52.19
+2026-06-08,ptt,diesel_b20,ดีเซล B20,35.30
+2026-06-08,ptt,diesel,ดีเซล,40.80
+2026-06-08,ptt,premium_diesel,Super Power Diesel,57.25
+2026-06-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.60
+2026-06-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.23
+2026-06-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.60
+2026-06-08,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-08,ptt,benzine_95,เบนซิน,52.19
+2026-06-09,ptt,diesel_b20,ดีเซล B20,35.80
+2026-06-09,ptt,diesel,ดีเซล,41.30
+2026-06-09,ptt,premium_diesel,Super Power Diesel,57.25
+2026-06-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.10
+2026-06-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.73
+2026-06-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.10
+2026-06-09,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-09,ptt,benzine_95,เบนซิน,52.69
+2026-06-10,ptt,diesel_b20,ดีเซล B20,35.80
+2026-06-10,ptt,diesel,ดีเซล,41.30
+2026-06-10,ptt,premium_diesel,Super Power Diesel,57.25
+2026-06-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.10
+2026-06-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.73
+2026-06-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.10
+2026-06-10,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-10,ptt,benzine_95,เบนซิน,52.69
+2026-06-11,ptt,diesel_b20,ดีเซล B20,35.80
+2026-06-11,ptt,diesel,ดีเซล,40.80
+2026-06-11,ptt,premium_diesel,Super Power Diesel,56.25
+2026-06-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.10
+2026-06-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.73
+2026-06-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.10
+2026-06-11,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-11,ptt,benzine_95,เบนซิน,52.69
+2026-06-12,ptt,diesel_b20,ดีเซล B20,35.80
+2026-06-12,ptt,diesel,ดีเซล,40.80
+2026-06-12,ptt,premium_diesel,Super Power Diesel,56.25
+2026-06-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,38.10
+2026-06-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,42.73
+2026-06-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,43.10
+2026-06-12,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-12,ptt,benzine_95,เบนซิน,52.69
+2026-06-13,ptt,diesel_b20,ดีเซล B20,34.80
+2026-06-13,ptt,diesel,ดีเซล,39.80
+2026-06-13,ptt,premium_diesel,Super Power Diesel,55.25
+2026-06-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.30
+2026-06-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.93
+2026-06-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.30
+2026-06-13,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-13,ptt,benzine_95,เบนซิน,51.89
+2026-06-14,ptt,diesel_b20,ดีเซล B20,34.80
+2026-06-14,ptt,diesel,ดีเซล,39.80
+2026-06-14,ptt,premium_diesel,Super Power Diesel,55.25
+2026-06-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.30
+2026-06-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.93
+2026-06-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.30
+2026-06-14,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-14,ptt,benzine_95,เบนซิน,51.89
+2026-06-15,ptt,diesel_b20,ดีเซล B20,34.80
+2026-06-15,ptt,diesel,ดีเซล,39.80
+2026-06-15,ptt,premium_diesel,Super Power Diesel,55.25
+2026-06-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,37.30
+2026-06-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.93
+2026-06-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,42.30
+2026-06-15,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-15,ptt,benzine_95,เบนซิน,51.89
+2026-06-16,ptt,diesel_b20,ดีเซล B20,33.80
+2026-06-16,ptt,diesel,ดีเซล,38.80
+2026-06-16,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,36.10
+2026-06-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.73
+2026-06-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.10
+2026-06-16,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-16,ptt,benzine_95,เบนซิน,50.69
+2026-06-17,ptt,diesel_b20,ดีเซล B20,33.80
+2026-06-17,ptt,diesel,ดีเซล,38.80
+2026-06-17,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.35
+2026-06-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.98
+2026-06-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.35
+2026-06-17,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-17,ptt,benzine_95,เบนซิน,49.94
+2026-06-18,ptt,diesel_b20,ดีเซล B20,33.80
+2026-06-18,ptt,diesel,ดีเซล,38.80
+2026-06-18,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.35
+2026-06-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.98
+2026-06-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.35
+2026-06-18,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-18,ptt,benzine_95,เบนซิน,49.94
+2026-06-19,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-19,ptt,diesel,ดีเซล,37.50
+2026-06-19,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-19,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-19,ptt,benzine_95,เบนซิน,48.44
+2026-06-20,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-20,ptt,diesel,ดีเซล,37.50
+2026-06-20,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-20,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-20,ptt,benzine_95,เบนซิน,48.44
+2026-06-21,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-21,ptt,diesel,ดีเซล,37.50
+2026-06-21,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-21,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-21,ptt,benzine_95,เบนซิน,48.44
+2026-06-22,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-22,ptt,diesel,ดีเซล,37.50
+2026-06-22,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-22,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-22,ptt,benzine_95,เบนซิน,48.44
+2026-06-23,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-23,ptt,diesel,ดีเซล,37.50
+2026-06-23,ptt,premium_diesel,Super Power Diesel,54.25
+2026-06-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-23,ptt,premium_gasohol_95,Super Power GSH95,50.99
+2026-06-23,ptt,benzine_95,เบนซิน,48.44
+2026-06-23,ptt,premium_98,Super Power X99,50.99
+2026-06-24,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-24,ptt,diesel,ดีเซล,37.50
+2026-06-24,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.85
+2026-06-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.48
+2026-06-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.85
+2026-06-24,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-24,ptt,benzine_95,เบนซิน,48.44
+2026-06-24,ptt,premium_98,Super Power X99,49.79
+2026-06-25,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-25,ptt,diesel,ดีเซล,37.50
+2026-06-25,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-25,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-25,ptt,benzine_95,เบนซิน,47.64
+2026-06-25,ptt,premium_98,Super Power X99,49.79
+2026-06-26,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-26,ptt,diesel,ดีเซล,37.50
+2026-06-26,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-26,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-26,ptt,benzine_95,เบนซิน,47.64
+2026-06-26,ptt,premium_98,Super Power X99,49.79
+2026-06-27,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-27,ptt,diesel,ดีเซล,37.50
+2026-06-27,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-27,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-27,ptt,benzine_95,เบนซิน,47.64
+2026-06-27,ptt,premium_98,Super Power X99,49.79
+2026-06-28,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-28,ptt,diesel,ดีเซล,37.50
+2026-06-28,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-28,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-28,ptt,benzine_95,เบนซิน,47.64
+2026-06-28,ptt,premium_98,Super Power X99,49.79
+2026-06-29,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-29,ptt,diesel,ดีเซล,37.50
+2026-06-29,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-29,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-29,ptt,benzine_95,เบนซิน,47.64
+2026-06-29,ptt,premium_98,Super Power X99,49.79
+2026-06-30,ptt,diesel_b20,ดีเซล B20,32.50
+2026-06-30,ptt,diesel,ดีเซล,37.50
+2026-06-30,ptt,premium_diesel,Super Power Diesel,50.05
+2026-06-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-06-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-06-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-06-30,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-06-30,ptt,benzine_95,เบนซิน,47.64
+2026-06-30,ptt,premium_98,Super Power X99,49.79
+2026-07-01,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-01,ptt,diesel,ดีเซล,37.50
+2026-07-01,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-07-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-07-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-07-01,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-01,ptt,benzine_95,เบนซิน,47.64
+2026-07-01,ptt,premium_98,Super Power X99,49.79
+2026-07-02,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-02,ptt,diesel,ดีเซล,37.50
+2026-07-02,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.05
+2026-07-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.68
+2026-07-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.05
+2026-07-02,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-02,ptt,benzine_95,เบนซิน,47.64
+2026-07-02,ptt,premium_98,Super Power X99,49.79
+2026-07-03,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-03,ptt,diesel,ดีเซล,37.50
+2026-07-03,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.45
+2026-07-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.08
+2026-07-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.45
+2026-07-03,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-03,ptt,benzine_95,เบนซิน,46.44
+2026-07-03,ptt,premium_98,Super Power X99,49.79
+2026-07-04,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-04,ptt,diesel,ดีเซล,37.50
+2026-07-04,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.45
+2026-07-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.08
+2026-07-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.45
+2026-07-04,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-04,ptt,benzine_95,เบนซิน,46.44
+2026-07-04,ptt,premium_98,Super Power X99,49.79
+2026-07-05,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-05,ptt,diesel,ดีเซล,37.50
+2026-07-05,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.45
+2026-07-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.08
+2026-07-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.45
+2026-07-05,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-05,ptt,benzine_95,เบนซิน,46.44
+2026-07-05,ptt,premium_98,Super Power X99,49.79
+2026-07-06,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-06,ptt,diesel,ดีเซล,37.50
+2026-07-06,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.45
+2026-07-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.08
+2026-07-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.45
+2026-07-06,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-06,ptt,benzine_95,เบนซิน,46.44
+2026-07-06,ptt,premium_98,Super Power X99,49.79
+2026-07-07,ptt,diesel_b20,ดีเซล B20,32.50
+2026-07-07,ptt,diesel,ดีเซล,37.50
+2026-07-07,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.45
+2026-07-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.08
+2026-07-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.45
+2026-07-07,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-07,ptt,benzine_95,เบนซิน,46.44
+2026-07-07,ptt,premium_98,Super Power X99,49.79
+2026-07-08,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-08,ptt,diesel,ดีเซล,34.94
+2026-07-08,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-08,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-08,ptt,benzine_95,เบนซิน,43.93
+2026-07-08,ptt,premium_98,Super Power X99,49.79
+2026-07-09,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-09,ptt,diesel,ดีเซล,34.94
+2026-07-09,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-09,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-09,ptt,benzine_95,เบนซิน,43.93
+2026-07-09,ptt,premium_98,Super Power X99,49.79
+2026-07-10,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-10,ptt,diesel,ดีเซล,34.94
+2026-07-10,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-10,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-10,ptt,benzine_95,เบนซิน,43.93
+2026-07-10,ptt,premium_98,Super Power X99,49.79
+2026-07-11,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-11,ptt,diesel,ดีเซล,34.94
+2026-07-11,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-11,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-11,ptt,benzine_95,เบนซิน,43.93
+2026-07-11,ptt,premium_98,Super Power X99,49.79
+2026-07-12,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-12,ptt,diesel,ดีเซล,34.94
+2026-07-12,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-12,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-12,ptt,benzine_95,เบนซิน,43.93
+2026-07-12,ptt,premium_98,Super Power X99,49.79
+2026-07-13,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-13,ptt,diesel,ดีเซล,34.94
+2026-07-13,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-13,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-13,ptt,benzine_95,เบนซิน,43.93
+2026-07-13,ptt,premium_98,Super Power X99,49.79
+2026-07-14,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-14,ptt,diesel,ดีเซล,34.94
+2026-07-14,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-14,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-14,ptt,benzine_95,เบนซิน,43.93
+2026-07-14,ptt,premium_98,Super Power X99,49.79
+2026-07-15,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-15,ptt,diesel,ดีเซล,34.94
+2026-07-15,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-15,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-15,ptt,benzine_95,เบนซิน,43.93
+2026-07-15,ptt,premium_98,Super Power X99,49.79
+2026-07-16,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-16,ptt,diesel,ดีเซล,34.94
+2026-07-16,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-16,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-16,ptt,benzine_95,เบนซิน,43.93
+2026-07-16,ptt,premium_98,Super Power X99,49.79
+2026-07-17,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-17,ptt,diesel,ดีเซล,34.94
+2026-07-17,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-17,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-17,ptt,benzine_95,เบนซิน,43.93
+2026-07-17,ptt,premium_98,Super Power X99,49.79
+2026-07-18,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-18,ptt,diesel,ดีเซล,34.94
+2026-07-18,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-18,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-18,ptt,benzine_95,เบนซิน,43.93
+2026-07-18,ptt,premium_98,Super Power X99,49.79
+2026-07-19,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-19,ptt,diesel,ดีเซล,34.94
+2026-07-19,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-19,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-19,ptt,benzine_95,เบนซิน,43.93
+2026-07-19,ptt,premium_98,Super Power X99,49.79
+2026-07-20,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-20,ptt,diesel,ดีเซล,34.94
+2026-07-20,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-20,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-20,ptt,benzine_95,เบนซิน,43.93
+2026-07-20,ptt,premium_98,Super Power X99,49.79
+2026-07-21,ptt,diesel_b20,ดีเซล B20,29.94
+2026-07-21,ptt,diesel,ดีเซล,34.94
+2026-07-21,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,29.94
+2026-07-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,34.57
+2026-07-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,34.94
+2026-07-21,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-21,ptt,benzine_95,เบนซิน,43.93
+2026-07-21,ptt,premium_98,Super Power X99,49.79
+2026-07-22,ptt,diesel_b20,ดีเซล B20,30.79
+2026-07-22,ptt,diesel,ดีเซล,35.79
+2026-07-22,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.79
+2026-07-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.42
+2026-07-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.79
+2026-07-22,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-22,ptt,benzine_95,เบนซิน,44.78
+2026-07-22,ptt,premium_98,Super Power X99,49.79
+2026-07-23,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-23,ptt,diesel,ดีเซล,36.69
+2026-07-23,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-23,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-23,ptt,benzine_95,เบนซิน,45.68
+2026-07-23,ptt,premium_98,Super Power X99,49.79
+2026-07-24,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-24,ptt,diesel,ดีเซล,36.69
+2026-07-24,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-24,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-24,ptt,benzine_95,เบนซิน,45.68
+2026-07-24,ptt,premium_98,Super Power X99,49.79
+2026-07-25,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-25,ptt,diesel,ดีเซล,36.69
+2026-07-25,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-25,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-25,ptt,benzine_95,เบนซิน,45.68
+2026-07-25,ptt,premium_98,Super Power X99,49.79
+2026-07-26,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-26,ptt,diesel,ดีเซล,36.69
+2026-07-26,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-26,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-26,ptt,benzine_95,เบนซิน,45.68
+2026-07-26,ptt,premium_98,Super Power X99,49.79
+2026-07-27,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-27,ptt,diesel,ดีเซล,36.69
+2026-07-27,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-27,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-27,ptt,benzine_95,เบนซิน,45.68
+2026-07-27,ptt,premium_98,Super Power X99,49.79
+2026-07-28,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-28,ptt,diesel,ดีเซล,36.69
+2026-07-28,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-28,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-28,ptt,benzine_95,เบนซิน,45.68
+2026-07-28,ptt,premium_98,Super Power X99,49.79
+2026-07-29,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-29,ptt,diesel,ดีเซล,36.69
+2026-07-29,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-29,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-29,ptt,benzine_95,เบนซิน,45.68
+2026-07-29,ptt,premium_98,Super Power X99,49.79
+2026-07-30,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-30,ptt,diesel,ดีเซล,36.69
+2026-07-30,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-30,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-30,ptt,benzine_95,เบนซิน,45.68
+2026-07-30,ptt,premium_98,Super Power X99,49.79
+2026-07-31,ptt,diesel_b20,ดีเซล B20,31.69
+2026-07-31,ptt,diesel,ดีเซล,36.69
+2026-07-31,ptt,premium_diesel,Super Power Diesel,50.05
+2026-07-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-07-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-07-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-07-31,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-07-31,ptt,benzine_95,เบนซิน,45.68
+2026-07-31,ptt,premium_98,Super Power X99,49.79
+2026-08-01,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-01,ptt,diesel,ดีเซล,36.69
+2026-08-01,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-08-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-08-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-08-01,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-01,ptt,benzine_95,เบนซิน,45.68
+2026-08-01,ptt,premium_98,Super Power X99,49.79
+2026-08-02,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-02,ptt,diesel,ดีเซล,36.69
+2026-08-02,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-08-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-08-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-08-02,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-02,ptt,benzine_95,เบนซิน,45.68
+2026-08-02,ptt,premium_98,Super Power X99,49.79
+2026-08-03,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-03,ptt,diesel,ดีเซล,36.69
+2026-08-03,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-08-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-08-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-08-03,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-03,ptt,benzine_95,เบนซิน,45.68
+2026-08-03,ptt,premium_98,Super Power X99,49.79
+2026-08-04,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-04,ptt,diesel,ดีเซล,36.69
+2026-08-04,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-08-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-08-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-08-04,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-04,ptt,benzine_95,เบนซิน,45.68
+2026-08-04,ptt,premium_98,Super Power X99,49.79
+2026-08-05,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-05,ptt,diesel,ดีเซล,36.69
+2026-08-05,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.69
+2026-08-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.32
+2026-08-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.69
+2026-08-05,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-05,ptt,benzine_95,เบนซิน,45.68
+2026-08-05,ptt,premium_98,Super Power X99,49.79
+2026-08-06,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-06,ptt,diesel,ดีเซล,36.69
+2026-08-06,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-06,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-06,ptt,benzine_95,เบนซิน,44.98
+2026-08-06,ptt,premium_98,Super Power X99,49.79
+2026-08-07,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-07,ptt,diesel,ดีเซล,36.69
+2026-08-07,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-07,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-07,ptt,benzine_95,เบนซิน,44.98
+2026-08-07,ptt,premium_98,Super Power X99,49.79
+2026-08-08,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-08,ptt,diesel,ดีเซล,36.69
+2026-08-08,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-08,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-08,ptt,benzine_95,เบนซิน,44.98
+2026-08-08,ptt,premium_98,Super Power X99,49.79
+2026-08-09,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-09,ptt,diesel,ดีเซล,36.69
+2026-08-09,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-09,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-09,ptt,benzine_95,เบนซิน,44.98
+2026-08-09,ptt,premium_98,Super Power X99,49.79
+2026-08-10,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-10,ptt,diesel,ดีเซล,36.69
+2026-08-10,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-10,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-10,ptt,benzine_95,เบนซิน,44.98
+2026-08-10,ptt,premium_98,Super Power X99,49.79
+2026-08-11,ptt,diesel_b20,ดีเซล B20,31.69
+2026-08-11,ptt,diesel,ดีเซล,36.69
+2026-08-11,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,30.99
+2026-08-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,35.62
+2026-08-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,35.99
+2026-08-11,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-11,ptt,benzine_95,เบนซิน,44.98
+2026-08-11,ptt,premium_98,Super Power X99,49.79
+2026-08-12,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-12,ptt,diesel,ดีเซล,37.54
+2026-08-12,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-12,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-12,ptt,benzine_95,เบนซิน,45.83
+2026-08-12,ptt,premium_98,Super Power X99,49.79
+2026-08-13,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-13,ptt,diesel,ดีเซล,37.54
+2026-08-13,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-13,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-13,ptt,benzine_95,เบนซิน,45.83
+2026-08-13,ptt,premium_98,Super Power X99,49.79
+2026-08-14,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-14,ptt,diesel,ดีเซล,37.54
+2026-08-14,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-14,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-14,ptt,benzine_95,เบนซิน,45.83
+2026-08-14,ptt,premium_98,Super Power X99,49.79
+2026-08-15,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-15,ptt,diesel,ดีเซล,37.54
+2026-08-15,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-15,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-15,ptt,benzine_95,เบนซิน,45.83
+2026-08-15,ptt,premium_98,Super Power X99,49.79
+2026-08-16,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-16,ptt,diesel,ดีเซล,37.54
+2026-08-16,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-16,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-16,ptt,benzine_95,เบนซิน,45.83
+2026-08-16,ptt,premium_98,Super Power X99,49.79
+2026-08-17,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-17,ptt,diesel,ดีเซล,37.54
+2026-08-17,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-17,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-17,ptt,benzine_95,เบนซิน,45.83
+2026-08-17,ptt,premium_98,Super Power X99,49.79
+2026-08-18,ptt,diesel_b20,ดีเซล B20,32.54
+2026-08-18,ptt,diesel,ดีเซล,37.54
+2026-08-18,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,31.84
+2026-08-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,36.47
+2026-08-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,36.84
+2026-08-18,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-18,ptt,benzine_95,เบนซิน,45.83
+2026-08-18,ptt,premium_98,Super Power X99,49.79
+2026-08-19,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-19,ptt,diesel,ดีเซล,38.39
+2026-08-19,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-19,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-19,ptt,benzine_95,เบนซิน,46.68
+2026-08-19,ptt,premium_98,Super Power X99,49.79
+2026-08-20,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-20,ptt,diesel,ดีเซล,38.39
+2026-08-20,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-20,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-20,ptt,benzine_95,เบนซิน,46.68
+2026-08-20,ptt,premium_98,Super Power X99,49.79
+2026-08-21,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-21,ptt,diesel,ดีเซล,38.39
+2026-08-21,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-21,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-21,ptt,benzine_95,เบนซิน,46.68
+2026-08-21,ptt,premium_98,Super Power X99,49.79
+2026-08-22,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-22,ptt,diesel,ดีเซล,38.39
+2026-08-22,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-22,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-22,ptt,benzine_95,เบนซิน,46.68
+2026-08-22,ptt,premium_98,Super Power X99,49.79
+2026-08-23,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-23,ptt,diesel,ดีเซล,38.39
+2026-08-23,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-23,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-23,ptt,benzine_95,เบนซิน,46.68
+2026-08-23,ptt,premium_98,Super Power X99,49.79
+2026-08-24,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-24,ptt,diesel,ดีเซล,38.39
+2026-08-24,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-24,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-24,ptt,benzine_95,เบนซิน,46.68
+2026-08-24,ptt,premium_98,Super Power X99,49.79
+2026-08-25,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-25,ptt,diesel,ดีเซล,38.39
+2026-08-25,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-25,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-25,ptt,benzine_95,เบนซิน,46.68
+2026-08-25,ptt,premium_98,Super Power X99,49.79
+2026-08-26,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-26,ptt,diesel,ดีเซล,38.39
+2026-08-26,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-26,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-26,ptt,benzine_95,เบนซิน,46.68
+2026-08-26,ptt,premium_98,Super Power X99,49.79
+2026-08-27,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-27,ptt,diesel,ดีเซล,38.39
+2026-08-27,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-27,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-27,ptt,benzine_95,เบนซิน,46.68
+2026-08-27,ptt,premium_98,Super Power X99,49.79
+2026-08-28,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-28,ptt,diesel,ดีเซล,38.39
+2026-08-28,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-28,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-28,ptt,benzine_95,เบนซิน,46.68
+2026-08-28,ptt,premium_98,Super Power X99,49.79
+2026-08-29,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-29,ptt,diesel,ดีเซล,38.39
+2026-08-29,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-29,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-29,ptt,benzine_95,เบนซิน,46.68
+2026-08-29,ptt,premium_98,Super Power X99,49.79
+2026-08-30,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-30,ptt,diesel,ดีเซล,38.39
+2026-08-30,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-30,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-30,ptt,benzine_95,เบนซิน,46.68
+2026-08-30,ptt,premium_98,Super Power X99,49.79
+2026-08-31,ptt,diesel_b20,ดีเซล B20,33.39
+2026-08-31,ptt,diesel,ดีเซล,38.39
+2026-08-31,ptt,premium_diesel,Super Power Diesel,50.05
+2026-08-31,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-08-31,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-08-31,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-08-31,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-08-31,ptt,benzine_95,เบนซิน,46.68
+2026-08-31,ptt,premium_98,Super Power X99,49.79
+2026-09-01,ptt,diesel_b20,ดีเซล B20,33.39
+2026-09-01,ptt,diesel,ดีเซล,38.39
+2026-09-01,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,32.69
+2026-09-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.32
+2026-09-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,37.69
+2026-09-01,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-01,ptt,benzine_95,เบนซิน,46.68
+2026-09-01,ptt,premium_98,Super Power X99,49.79
+2026-09-02,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-02,ptt,diesel,ดีเซล,39.14
+2026-09-02,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-02,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-02,ptt,benzine_95,เบนซิน,47.28
+2026-09-02,ptt,premium_98,Super Power X99,49.79
+2026-09-03,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-03,ptt,diesel,ดีเซล,39.14
+2026-09-03,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-03,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-03,ptt,benzine_95,เบนซิน,47.28
+2026-09-03,ptt,premium_98,Super Power X99,49.79
+2026-09-04,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-04,ptt,diesel,ดีเซล,39.14
+2026-09-04,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-04,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-04,ptt,benzine_95,เบนซิน,47.28
+2026-09-04,ptt,premium_98,Super Power X99,49.79
+2026-09-05,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-05,ptt,diesel,ดีเซล,39.14
+2026-09-05,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-05,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-05,ptt,benzine_95,เบนซิน,47.28
+2026-09-05,ptt,premium_98,Super Power X99,49.79
+2026-09-06,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-06,ptt,diesel,ดีเซล,39.14
+2026-09-06,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-06,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-06,ptt,benzine_95,เบนซิน,47.28
+2026-09-06,ptt,premium_98,Super Power X99,49.79
+2026-09-07,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-07,ptt,diesel,ดีเซล,39.14
+2026-09-07,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-07,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-07,ptt,benzine_95,เบนซิน,47.28
+2026-09-07,ptt,premium_98,Super Power X99,49.79
+2026-09-08,ptt,diesel_b20,ดีเซล B20,34.14
+2026-09-08,ptt,diesel,ดีเซล,39.14
+2026-09-08,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,33.29
+2026-09-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,37.92
+2026-09-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,38.29
+2026-09-08,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-08,ptt,benzine_95,เบนซิน,47.28
+2026-09-08,ptt,premium_98,Super Power X99,49.79
+2026-09-09,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-09,ptt,diesel,ดีเซล,39.84
+2026-09-09,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-09,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-09,ptt,benzine_95,เบนซิน,48.08
+2026-09-09,ptt,premium_98,Super Power X99,49.79
+2026-09-10,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-10,ptt,diesel,ดีเซล,39.84
+2026-09-10,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-10,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-10,ptt,benzine_95,เบนซิน,48.08
+2026-09-10,ptt,premium_98,Super Power X99,49.79
+2026-09-11,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-11,ptt,diesel,ดีเซล,39.84
+2026-09-11,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-11,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-11,ptt,benzine_95,เบนซิน,48.08
+2026-09-11,ptt,premium_98,Super Power X99,49.79
+2026-09-12,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-12,ptt,diesel,ดีเซล,39.84
+2026-09-12,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-12,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-12,ptt,benzine_95,เบนซิน,48.08
+2026-09-12,ptt,premium_98,Super Power X99,49.79
+2026-09-13,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-13,ptt,diesel,ดีเซล,39.84
+2026-09-13,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-13,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-13,ptt,benzine_95,เบนซิน,48.08
+2026-09-13,ptt,premium_98,Super Power X99,49.79
+2026-09-14,ptt,diesel_b20,ดีเซล B20,34.84
+2026-09-14,ptt,diesel,ดีเซล,39.84
+2026-09-14,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.09
+2026-09-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,38.72
+2026-09-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.09
+2026-09-14,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-14,ptt,benzine_95,เบนซิน,48.08
+2026-09-14,ptt,premium_98,Super Power X99,49.79
+2026-09-15,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-15,ptt,diesel,ดีเซล,40.69
+2026-09-15,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-15,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-15,ptt,benzine_95,เบนซิน,48.93
+2026-09-15,ptt,premium_98,Super Power X99,49.79
+2026-09-16,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-16,ptt,diesel,ดีเซล,40.69
+2026-09-16,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-16,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-16,ptt,benzine_95,เบนซิน,48.93
+2026-09-16,ptt,premium_98,Super Power X99,49.79
+2026-09-17,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-17,ptt,diesel,ดีเซล,40.69
+2026-09-17,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-17,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-17,ptt,benzine_95,เบนซิน,48.93
+2026-09-17,ptt,premium_98,Super Power X99,49.79
+2026-09-18,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-18,ptt,diesel,ดีเซล,40.69
+2026-09-18,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-18,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-18,ptt,benzine_95,เบนซิน,48.93
+2026-09-18,ptt,premium_98,Super Power X99,49.79
+2026-09-19,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-19,ptt,diesel,ดีเซล,40.69
+2026-09-19,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-19,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-19,ptt,benzine_95,เบนซิน,48.93
+2026-09-19,ptt,premium_98,Super Power X99,49.79
+2026-09-20,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-20,ptt,diesel,ดีเซล,40.69
+2026-09-20,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-20,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-20,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-20,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-20,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-20,ptt,benzine_95,เบนซิน,48.93
+2026-09-20,ptt,premium_98,Super Power X99,49.79
+2026-09-21,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-21,ptt,diesel,ดีเซล,40.69
+2026-09-21,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-21,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-21,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-21,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-21,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-21,ptt,benzine_95,เบนซิน,48.93
+2026-09-21,ptt,premium_98,Super Power X99,49.79
+2026-09-22,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-22,ptt,diesel,ดีเซล,40.69
+2026-09-22,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-22,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-22,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-22,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-22,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-22,ptt,benzine_95,เบนซิน,48.93
+2026-09-22,ptt,premium_98,Super Power X99,49.79
+2026-09-23,ptt,diesel_b20,ดีเซล B20,35.69
+2026-09-23,ptt,diesel,ดีเซล,40.69
+2026-09-23,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-23,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-23,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-23,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-23,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-23,ptt,benzine_95,เบนซิน,48.93
+2026-09-23,ptt,premium_98,Super Power X99,49.79
+2026-09-24,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-24,ptt,diesel,ดีเซล,41.44
+2026-09-24,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-24,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-24,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-24,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-24,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-24,ptt,benzine_95,เบนซิน,48.93
+2026-09-24,ptt,premium_98,Super Power X99,49.79
+2026-09-25,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-25,ptt,diesel,ดีเซล,41.44
+2026-09-25,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-25,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-25,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-25,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-25,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-25,ptt,benzine_95,เบนซิน,48.93
+2026-09-25,ptt,premium_98,Super Power X99,49.79
+2026-09-26,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-26,ptt,diesel,ดีเซล,41.44
+2026-09-26,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-26,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-26,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-26,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-26,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-26,ptt,benzine_95,เบนซิน,48.93
+2026-09-26,ptt,premium_98,Super Power X99,49.79
+2026-09-27,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-27,ptt,diesel,ดีเซล,41.44
+2026-09-27,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-27,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-27,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-27,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-27,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-27,ptt,benzine_95,เบนซิน,48.93
+2026-09-27,ptt,premium_98,Super Power X99,49.79
+2026-09-28,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-28,ptt,diesel,ดีเซล,41.44
+2026-09-28,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-28,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-28,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-28,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-28,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-28,ptt,benzine_95,เบนซิน,48.93
+2026-09-28,ptt,premium_98,Super Power X99,49.79
+2026-09-29,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-29,ptt,diesel,ดีเซล,41.44
+2026-09-29,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-29,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-29,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-29,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-29,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-29,ptt,benzine_95,เบนซิน,48.93
+2026-09-29,ptt,premium_98,Super Power X99,49.79
+2026-09-30,ptt,diesel_b20,ดีเซล B20,36.44
+2026-09-30,ptt,diesel,ดีเซล,41.44
+2026-09-30,ptt,premium_diesel,Super Power Diesel,50.05
+2026-09-30,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-09-30,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-09-30,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-09-30,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-09-30,ptt,benzine_95,เบนซิน,48.93
+2026-09-30,ptt,premium_98,Super Power X99,49.79
+2026-10-01,ptt,diesel_b20,ดีเซล B20,36.44
+2026-10-01,ptt,diesel,ดีเซล,41.44
+2026-10-01,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-01,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,34.94
+2026-10-01,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,39.57
+2026-10-01,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,39.94
+2026-10-01,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-01,ptt,benzine_95,เบนซิน,48.93
+2026-10-01,ptt,premium_98,Super Power X99,49.79
+2026-10-02,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-02,ptt,diesel,ดีเซล,42.19
+2026-10-02,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-02,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-02,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-02,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-02,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-02,ptt,benzine_95,เบนซิน,49.68
+2026-10-02,ptt,premium_98,Super Power X99,49.79
+2026-10-03,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-03,ptt,diesel,ดีเซล,42.19
+2026-10-03,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-03,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-03,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-03,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-03,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-03,ptt,benzine_95,เบนซิน,49.68
+2026-10-03,ptt,premium_98,Super Power X99,49.79
+2026-10-04,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-04,ptt,diesel,ดีเซล,42.19
+2026-10-04,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-04,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-04,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-04,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-04,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-04,ptt,benzine_95,เบนซิน,49.68
+2026-10-04,ptt,premium_98,Super Power X99,49.79
+2026-10-05,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-05,ptt,diesel,ดีเซล,42.19
+2026-10-05,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-05,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-05,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-05,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-05,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-05,ptt,benzine_95,เบนซิน,49.68
+2026-10-05,ptt,premium_98,Super Power X99,49.79
+2026-10-06,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-06,ptt,diesel,ดีเซล,42.19
+2026-10-06,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-06,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-06,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-06,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-06,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-06,ptt,benzine_95,เบนซิน,49.68
+2026-10-06,ptt,premium_98,Super Power X99,49.79
+2026-10-07,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-07,ptt,diesel,ดีเซล,42.19
+2026-10-07,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-07,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-07,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-07,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-07,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-07,ptt,benzine_95,เบนซิน,49.68
+2026-10-07,ptt,premium_98,Super Power X99,49.79
+2026-10-08,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-08,ptt,diesel,ดีเซล,42.19
+2026-10-08,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-08,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-08,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,40.32
+2026-10-08,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,40.69
+2026-10-08,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-08,ptt,benzine_95,เบนซิน,49.68
+2026-10-08,ptt,premium_98,Super Power X99,49.79
+2026-10-09,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-09,ptt,diesel,ดีเซล,42.94
+2026-10-09,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-09,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-09,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-09,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-09,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-09,ptt,benzine_95,เบนซิน,50.43
+2026-10-09,ptt,premium_98,Super Power X99,49.79
+2026-10-10,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-10,ptt,diesel,ดีเซล,42.94
+2026-10-10,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-10,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-10,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-10,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-10,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-10,ptt,benzine_95,เบนซิน,50.43
+2026-10-10,ptt,premium_98,Super Power X99,49.79
+2026-10-11,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-11,ptt,diesel,ดีเซล,42.94
+2026-10-11,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-11,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-11,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-11,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-11,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-11,ptt,benzine_95,เบนซิน,50.43
+2026-10-11,ptt,premium_98,Super Power X99,49.79
+2026-10-12,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-12,ptt,diesel,ดีเซล,42.94
+2026-10-12,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-12,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-12,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-12,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-12,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-12,ptt,benzine_95,เบนซิน,50.43
+2026-10-12,ptt,premium_98,Super Power X99,49.79
+2026-10-13,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-13,ptt,diesel,ดีเซล,42.94
+2026-10-13,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-13,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-13,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-13,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-13,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-13,ptt,benzine_95,เบนซิน,50.43
+2026-10-13,ptt,premium_98,Super Power X99,49.79
+2026-10-14,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-14,ptt,diesel,ดีเซล,42.94
+2026-10-14,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-14,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-14,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-14,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-14,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-14,ptt,benzine_95,เบนซิน,50.43
+2026-10-14,ptt,premium_98,Super Power X99,49.79
+2026-10-15,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-15,ptt,diesel,ดีเซล,42.94
+2026-10-15,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-15,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-15,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-15,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-15,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-15,ptt,benzine_95,เบนซิน,50.43
+2026-10-15,ptt,premium_98,Super Power X99,49.79
+2026-10-16,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-16,ptt,diesel,ดีเซล,42.94
+2026-10-16,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-16,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-16,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-16,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-16,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-16,ptt,benzine_95,เบนซิน,50.43
+2026-10-16,ptt,premium_98,Super Power X99,49.79
+2026-10-17,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-17,ptt,diesel,ดีเซล,42.94
+2026-10-17,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-17,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-17,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-17,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-17,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-17,ptt,benzine_95,เบนซิน,50.43
+2026-10-17,ptt,premium_98,Super Power X99,49.79
+2026-10-18,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-18,ptt,diesel,ดีเซล,42.94
+2026-10-18,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-18,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-18,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-18,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-18,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-18,ptt,benzine_95,เบนซิน,50.43
+2026-10-18,ptt,premium_98,Super Power X99,49.79
+2026-10-19,bangchak,diesel_b20,ดีเซล B20,37.19
+2026-10-19,bangchak,diesel,ไฮดีเซล S,42.94
+2026-10-19,bangchak,premium_diesel,ไฮ พรีเมียม ดีเซล พลัส,50.05
+2026-10-19,bangchak,gasohol_e85,แก๊สโซฮอล์ E85 S EVO,31.63
+2026-10-19,bangchak,gasohol_e20,แก๊สโซฮอล์ E20 S EVO,35.69
+2026-10-19,bangchak,gasohol_91,แก๊สโซฮอล์ 91 S EVO,41.07
+2026-10-19,bangchak,gasohol_95,แก๊สโซฮอล์ 95 S EVO,41.44
+2026-10-19,bangchak,premium_98,ไฮ พรีเมียม 98 พลัส,49.29
+2026-10-19,ptt,diesel_b20,ดีเซล B20,37.19
+2026-10-19,ptt,diesel,ดีเซล,42.94
+2026-10-19,ptt,premium_diesel,Super Power Diesel,50.05
+2026-10-19,ptt,gasohol_e20,เบนซินแก๊สโซฮอล์ E20,35.69
+2026-10-19,ptt,gasohol_91,เบนซินแก๊สโซฮอล์ 91,41.07
+2026-10-19,ptt,gasohol_95,เบนซินแก๊สโซฮอล์ 95,41.44
+2026-10-19,ptt,premium_gasohol_95,Super Power GSH95,47.79
+2026-10-19,ptt,benzine_95,เบนซิน,50.43
+2026-10-19,ptt,premium_98,Super Power X99,49.79

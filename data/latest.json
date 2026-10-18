@@ -1,0 +1,152 @@
+{
+ "updated": "2026-10-19T00:43",
+ "date": "2026-10-19",
+ "brands": {
+  "ptt": {
+   "name": "ปตท. (PTT)",
+   "products": [
+    {
+     "product": "diesel_b20",
+     "label": "ดีเซล B20",
+     "name": "ดีเซล B20",
+     "price": 37.19,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "diesel",
+     "label": "ดีเซล",
+     "name": "ดีเซล",
+     "price": 42.94,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_e20",
+     "label": "แก๊สโซฮอล์ E20",
+     "name": "เบนซินแก๊สโซฮอล์ E20",
+     "price": 35.69,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_91",
+     "label": "แก๊สโซฮอล์ 91",
+     "name": "เบนซินแก๊สโซฮอล์ 91",
+     "price": 41.07,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_95",
+     "label": "แก๊สโซฮอล์ 95",
+     "name": "เบนซินแก๊สโซฮอล์ 95",
+     "price": 41.44,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "benzine_95",
+     "label": "เบนซิน 95",
+     "name": "เบนซิน",
+     "price": 50.43,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "premium_gasohol_95",
+     "label": "แก๊สโซฮอล์ 95 พรีเมียม",
+     "name": "Super Power GSH95",
+     "price": 47.79,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "premium_diesel",
+     "label": "ดีเซลพรีเมียม",
+     "name": "Super Power Diesel",
+     "price": 50.05,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "premium_98",
+     "label": "เบนซินพรีเมียม 98+",
+     "name": "Super Power X99",
+     "price": 49.79,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    }
+   ]
+  },
+  "bangchak": {
+   "name": "บางจาก",
+   "products": [
+    {
+     "product": "diesel_b20",
+     "label": "ดีเซล B20",
+     "name": "ดีเซล B20",
+     "price": 37.19,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "diesel",
+     "label": "ดีเซล",
+     "name": "ไฮดีเซล S",
+     "price": 42.94,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "premium_diesel",
+     "label": "ดีเซลพรีเมียม",
+     "name": "ไฮ พรีเมียม ดีเซล พลัส",
+     "price": 50.05,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "premium_98",
+     "label": "เบนซินพรีเมียม 98+",
+     "name": "ไฮ พรีเมียม 98 พลัส",
+     "price": 49.29,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_e85",
+     "label": "แก๊สโซฮอล์ E85",
+     "name": "แก๊สโซฮอล์ E85 S EVO",
+     "price": 31.63,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_e20",
+     "label": "แก๊สโซฮอล์ E20",
+     "name": "แก๊สโซฮอล์ E20 S EVO",
+     "price": 35.69,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_91",
+     "label": "แก๊สโซฮอล์ 91",
+     "name": "แก๊สโซฮอล์ 91 S EVO",
+     "price": 41.07,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    },
+    {
+     "product": "gasohol_95",
+     "label": "แก๊สโซฮอล์ 95",
+     "name": "แก๊สโซฮอล์ 95 S EVO",
+     "price": 41.44,
+     "since": "2026-10-09T05:00",
+     "tomorrow": null
+    }
+   ]
+  }
+ }
+}
