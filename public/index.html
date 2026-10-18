@@ -20,22 +20,33 @@
 <body>
   <header class="hero">
     <div class="wrap">
-      <p class="kicker"><span class="live"></span>อัปเดตอัตโนมัติ <span id="updated">…</span></p>
+      <p class="kicker"><span class="live"></span>อัปเดตอัตโนมัติ <span id="updated">กำลังโหลด…</span></p>
       <h1>ราคาน้ำมันวันนี้</h1>
-      <p class="sub">ราคาขายปลีกกรุงเทพฯ ของ <b class="ptt">ปตท.</b> และ <b class="bcp">บางจาก</b> · <span id="since"></span></p>
+      <p class="sub">ราคาขายปลีกกรุงเทพฯ ของ <b class="ptt">ปตท.</b> และ <b class="bcp">บางจาก</b> · <span id="since">ราคามีผลตั้งแต่ …</span></p>
     </div>
   </header>
 
   <main class="wrap">
-    <div class="alert" id="tomorrow" hidden></div>
-
     <section class="board" aria-labelledby="t-today">
       <h2 id="t-today" class="sr">ราคาวันนี้</h2>
       <table class="prices">
         <thead><tr><th>น้ำมัน</th><th class="ptt">ปตท.</th><th class="bcp">บางจาก</th><th class="diff">ต่างกัน</th></tr></thead>
-        <tbody id="rows"><tr><td colspan="4" class="muted">กำลังโหลดราคา…</td></tr></tbody>
+        <!-- placeholder rows keep the layout still while prices load (app.js fills them) -->
+        <tbody id="rows">
+          <tr data-key="diesel_b20"><td>ดีเซล B20</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="diesel"><td>ดีเซล</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="premium_diesel"><td>ดีเซลพรีเมียม</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="gasohol_e85"><td>แก๊สโซฮอล์ E85</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="gasohol_e20"><td>แก๊สโซฮอล์ E20</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="gasohol_91"><td>แก๊สโซฮอล์ 91</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="gasohol_95"><td>แก๊สโซฮอล์ 95</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="premium_gasohol_95"><td>แก๊สโซฮอล์ 95 พรีเมียม</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="benzine_95"><td>เบนซิน 95</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+          <tr data-key="premium_98"><td>เบนซินพรีเมียม 98+</td><td><span class="num ph">–</span></td><td><span class="num ph">–</span></td><td class="diff"></td></tr>
+        </tbody>
       </table>
       <p class="note">บาท/ลิตร · ไม่รวมภาษีบำรุงท้องถิ่น กทม. · ราคาจริงตามสถานีบริการอาจต่างเล็กน้อย</p>
+      <div class="alert" id="tomorrow" hidden></div>
     </section>
 
     <section class="chart-box" aria-labelledby="t-chart">
@@ -45,7 +56,7 @@
           <button data-days="90">3 เดือน</button><button data-days="182">6 เดือน</button><button data-days="366" class="on">1 ปี</button>
         </div>
       </div>
-      <div class="chips" id="products" role="group" aria-label="เลือกชนิดน้ำมัน"></div>
+      <div class="chips" id="products" role="group" aria-label="เลือกชนิดน้ำมัน"><button data-key="diesel_b20">ดีเซล B20</button><button data-key="diesel" class="on">ดีเซล</button><button data-key="premium_diesel">ดีเซลพรีเมียม</button><button data-key="gasohol_e85">แก๊สโซฮอล์ E85</button><button data-key="gasohol_e20">แก๊สโซฮอล์ E20</button><button data-key="gasohol_91">แก๊สโซฮอล์ 91</button><button data-key="gasohol_95">แก๊สโซฮอล์ 95</button><button data-key="premium_gasohol_95">แก๊สโซฮอล์ 95 พรีเมียม</button><button data-key="benzine_95">เบนซิน 95</button><button data-key="premium_98">เบนซินพรีเมียม 98+</button></div>
       <div class="chart" id="chart"><p class="muted">กำลังโหลดกราฟ…</p></div>
       <p class="legend"><span class="ptt">━ ปตท.</span> <span class="bcp">━ บางจาก</span> <span class="muted" id="chartNote"></span></p>
     </section>

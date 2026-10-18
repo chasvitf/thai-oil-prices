@@ -52,7 +52,7 @@ function renderToday(latest) {
       ? `<td>${cheaper === brand ? '<span class="cheap">ถูกกว่า</span>' : ""}<span class="num">${baht(p.price)}</span>${tomorrowTag(p)}</td>`
       : '<td class="na">ไม่มีขาย</td>';
     const diff = a && b ? (Math.abs(a.price - b.price) < 0.001 ? "เท่ากัน" : baht(Math.abs(a.price - b.price))) : "–";
-    return `<tr><td>${row.label}</td>${cell(a, "ptt")}${cell(b, "bangchak")}<td class="diff">${diff}</td></tr>`;
+    return `<tr data-key="${k}"><td>${row.label}</td>${cell(a, "ptt")}${cell(b, "bangchak")}<td class="diff">${diff}</td></tr>`;
   }).join("");
 
   const coming = [];
@@ -92,8 +92,13 @@ const chart = { series: {}, product: CHART_DEFAULT, days: 366, labels: {} };
 function renderChips(products) {
   const withHistory = products.filter((p) => chart.series[p.key]);
   if (!withHistory.some((p) => p.key === chart.product)) chart.product = withHistory[0]?.key;
-  $("products").innerHTML = withHistory.map((p) =>
-    `<button data-key="${p.key}" class="${p.key === chart.product ? "on" : ""}">${p.label}</button>`).join("");
+  // index.html already has a chip per known fuel (so nothing moves while loading); only
+  // rebuild when the brands sell something new.
+  const have = [...$("products").querySelectorAll("button")].map((b) => b.dataset.key).join();
+  if (have !== withHistory.map((p) => p.key).join()) {
+    $("products").innerHTML = withHistory.map((p) => `<button data-key="${p.key}">${p.label}</button>`).join("");
+  }
+  $("products").querySelectorAll("button").forEach((b) => b.classList.toggle("on", b.dataset.key === chart.product));
 }
 
 function drawChart() {

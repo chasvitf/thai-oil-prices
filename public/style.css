@@ -51,7 +51,7 @@ main.wrap { padding-top: 20px; }
 section { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; margin-bottom: 18px; }
 h2 { font-size: 20px; margin: 0 0 10px; }
 
-.alert { background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; border-radius: 12px; padding: 12px 16px; margin-bottom: 18px; font-weight: 600; }
+.alert { background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; border-radius: 12px; padding: 12px 16px; margin-top: 12px; font-weight: 600; }
 @media (prefers-color-scheme: dark) { .alert { background: #2a1a0c; color: #fdba74; border-color: #7c2d12; } }
 .alert ul { margin: 6px 0 0; padding-left: 1.2em; font-weight: 500; }
 
@@ -63,6 +63,7 @@ h2 { font-size: 20px; margin: 0 0 10px; }
 .prices .num { font: 700 22px "JetBrains Mono", monospace; letter-spacing: -.5px; }
 .prices .cheap { display: inline-block; font: 600 11px "IBM Plex Sans Thai", sans-serif; color: var(--down); border: 1px solid currentColor; border-radius: 99px; padding: 0 6px; margin-right: 6px; vertical-align: 3px; }
 .prices .na { color: var(--muted); font-size: 14px; }
+.prices .ph { color: var(--line); }
 .prices .diff { font: 500 14px "JetBrains Mono", monospace; color: var(--muted); }
 .prices .tm { display: block; font: 600 12px "IBM Plex Sans Thai", sans-serif; }
 .tm.up { color: var(--up); }
