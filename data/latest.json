@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T23:13",
- "date": "2026-10-20",
+ "updated": "2026-10-21T07:48",
+ "date": "2026-10-21",
  "brands": {
   "ptt": {
    "name": "ปตท. (PTT)",
@@ -87,23 +87,23 @@
      "label": "ดีเซล B20",
      "name": "ดีเซล B20",
      "price": 37.19,
-     "since": null,
+     "since": "2026-10-21T05:00",
      "tomorrow": null
     },
     {
      "product": "diesel",
      "label": "ดีเซล",
      "name": "ไฮดีเซล S",
-     "price": 42.94,
-     "since": null,
-     "tomorrow": 43.54
+     "price": 43.54,
+     "since": "2026-10-21T05:00",
+     "tomorrow": null
     },
     {
      "product": "premium_diesel",
      "label": "ดีเซลพรีเมียม",
      "name": "ไฮ พรีเมียม ดีเซล พลัส",
      "price": 50.05,
-     "since": null,
+     "since": "2026-10-21T05:00",
      "tomorrow": null
     },
     {
@@ -111,7 +111,7 @@
      "label": "เบนซินพรีเมียม 98+",
      "name": "ไฮ พรีเมียม 98 พลัส",
      "price": 49.29,
-     "since": null,
+     "since": "2026-10-21T05:00",
      "tomorrow": null
     },
     {
@@ -119,7 +119,7 @@
      "label": "แก๊สโซฮอล์ E85",
      "name": "แก๊สโซฮอล์ E85 S EVO",
      "price": 31.63,
-     "since": null,
+     "since": "2026-10-21T05:00",
      "tomorrow": null
     },
     {
@@ -127,24 +127,24 @@
      "label": "แก๊สโซฮอล์ E20",
      "name": "แก๊สโซฮอล์ E20 S EVO",
      "price": 35.69,
-     "since": null,
+     "since": "2026-10-21T05:00",
      "tomorrow": null
     },
     {
      "product": "gasohol_91",
      "label": "แก๊สโซฮอล์ 91",
      "name": "แก๊สโซฮอล์ 91 S EVO",
-     "price": 41.07,
-     "since": null,
-     "tomorrow": 41.67
+     "price": 41.67,
+     "since": "2026-10-21T05:00",
+     "tomorrow": null
     },
     {
      "product": "gasohol_95",
      "label": "แก๊สโซฮอล์ 95",
      "name": "แก๊สโซฮอล์ 95 S EVO",
-     "price": 41.44,
-     "since": null,
-     "tomorrow": 42.04
+     "price": 42.04,
+     "since": "2026-10-21T05:00",
+     "tomorrow": null
     }
    ]
   }
