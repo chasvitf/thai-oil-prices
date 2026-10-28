@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T08:33",
- "date": "2026-10-28",
+ "updated": "2026-10-29T00:48",
+ "date": "2026-10-29",
  "brands": {
   "ptt": {
    "name": "ปตท. (PTT)",
@@ -10,15 +10,15 @@
      "label": "ดีเซล B20",
      "name": "ดีเซล B20",
      "price": 33.5,
-     "since": "2026-10-28T05:00",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "diesel",
      "label": "ดีเซล",
      "name": "ดีเซล",
-     "price": 43.54,
-     "since": "2026-10-28T05:00",
+     "price": 42.54,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
@@ -26,23 +26,23 @@
      "label": "แก๊สโซฮอล์ E20",
      "name": "เบนซินแก๊สโซฮอล์ E20",
      "price": 33.5,
-     "since": "2026-10-28T05:00",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "gasohol_91",
      "label": "แก๊สโซฮอล์ 91",
      "name": "เบนซินแก๊สโซฮอล์ 91",
-     "price": 41.67,
-     "since": "2026-10-28T05:00",
+     "price": 41.17,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "gasohol_95",
      "label": "แก๊สโซฮอล์ 95",
      "name": "เบนซินแก๊สโซฮอล์ 95",
-     "price": 42.04,
-     "since": "2026-10-28T05:00",
+     "price": 41.54,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
@@ -50,31 +50,31 @@
      "label": "เบนซิน 95",
      "name": "เบนซิน",
      "price": 51.03,
-     "since": "2026-10-28T05:00",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "premium_gasohol_95",
      "label": "แก๊สโซฮอล์ 95 พรีเมียม",
      "name": "Super Power GSH95",
-     "price": 47.79,
-     "since": "2026-10-28T05:00",
+     "price": 47.05,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "premium_diesel",
      "label": "ดีเซลพรีเมียม",
      "name": "Super Power Diesel",
-     "price": 50.05,
-     "since": "2026-10-28T05:00",
+     "price": 49.05,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
      "product": "premium_98",
      "label": "เบนซินพรีเมียม 98+",
      "name": "Super Power X99",
-     "price": 49.79,
-     "since": "2026-10-28T05:00",
+     "price": 49.05,
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     }
    ]
@@ -87,7 +87,7 @@
      "label": "ดีเซล B20",
      "name": "ดีเซล B20",
      "price": 33.5,
-     "since": "2026-10-28T00:01",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
@@ -95,31 +95,31 @@
      "label": "ดีเซล",
      "name": "ไฮดีเซล S",
      "price": 43.54,
-     "since": "2026-10-28T00:01",
-     "tomorrow": null
+     "since": "2026-10-29T05:00",
+     "tomorrow": 42.54
     },
     {
      "product": "premium_diesel",
      "label": "ดีเซลพรีเมียม",
      "name": "ไฮ พรีเมียม ดีเซล พลัส",
      "price": 50.05,
-     "since": "2026-10-28T00:01",
-     "tomorrow": null
+     "since": "2026-10-29T05:00",
+     "tomorrow": 49.05
     },
     {
      "product": "premium_98",
      "label": "เบนซินพรีเมียม 98+",
      "name": "ไฮ พรีเมียม 98 พลัส",
      "price": 49.29,
-     "since": "2026-10-28T00:01",
-     "tomorrow": null
+     "since": "2026-10-29T05:00",
+     "tomorrow": 48.55
     },
     {
      "product": "gasohol_e85",
      "label": "แก๊สโซฮอล์ E85",
      "name": "แก๊สโซฮอล์ E85 S EVO",
      "price": 31.63,
-     "since": "2026-10-28T00:01",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
@@ -127,7 +127,7 @@
      "label": "แก๊สโซฮอล์ E20",
      "name": "แก๊สโซฮอล์ E20 S EVO",
      "price": 33.5,
-     "since": "2026-10-28T00:01",
+     "since": "2026-10-29T05:00",
      "tomorrow": null
     },
     {
@@ -135,16 +135,16 @@
      "label": "แก๊สโซฮอล์ 91",
      "name": "แก๊สโซฮอล์ 91 S EVO",
      "price": 41.67,
-     "since": "2026-10-28T00:01",
-     "tomorrow": null
+     "since": "2026-10-29T05:00",
+     "tomorrow": 41.17
     },
     {
      "product": "gasohol_95",
      "label": "แก๊สโซฮอล์ 95",
      "name": "แก๊สโซฮอล์ 95 S EVO",
      "price": 42.04,
-     "since": "2026-10-28T00:01",
-     "tomorrow": null
+     "since": "2026-10-29T05:00",
+     "tomorrow": 41.54
     }
    ]
   }
