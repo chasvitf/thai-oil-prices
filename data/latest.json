@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:13",
+ "updated": "2026-11-11T09:06",
  "date": "2026-11-11",
  "brands": {
   "ptt": {
@@ -94,9 +94,9 @@
      "product": "diesel",
      "label": "ดีเซล",
      "name": "ไฮดีเซล S",
-     "price": 41.79,
+     "price": 40.79,
      "since": "2026-11-11T05:00",
-     "tomorrow": 40.79
+     "tomorrow": null
     },
     {
      "product": "premium_diesel",
@@ -126,25 +126,25 @@
      "product": "gasohol_e20",
      "label": "แก๊สโซฮอล์ E20",
      "name": "แก๊สโซฮอล์ E20 S EVO",
-     "price": 31.8,
+     "price": 31.3,
      "since": "2026-11-11T05:00",
-     "tomorrow": 31.3
+     "tomorrow": null
     },
     {
      "product": "gasohol_91",
      "label": "แก๊สโซฮอล์ 91",
      "name": "แก๊สโซฮอล์ 91 S EVO",
-     "price": 39.47,
+     "price": 38.97,
      "since": "2026-11-11T05:00",
-     "tomorrow": 38.97
+     "tomorrow": null
     },
     {
      "product": "gasohol_95",
      "label": "แก๊สโซฮอล์ 95",
      "name": "แก๊สโซฮอล์ 95 S EVO",
-     "price": 39.84,
+     "price": 39.34,
      "since": "2026-11-11T05:00",
-     "tomorrow": 39.34
+     "tomorrow": null
     }
    ]
   }
