@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:52",
+ "updated": "2026-11-19T10:46",
  "date": "2026-11-19",
  "brands": {
   "ptt": {
@@ -126,25 +126,25 @@
      "product": "gasohol_e20",
      "label": "แก๊สโซฮอล์ E20",
      "name": "แก๊สโซฮอล์ E20 S EVO",
-     "price": 30.8,
+     "price": 30.1,
      "since": "2026-11-19T05:00",
-     "tomorrow": 30.1
+     "tomorrow": null
     },
     {
      "product": "gasohol_91",
      "label": "แก๊สโซฮอล์ 91",
      "name": "แก๊สโซฮอล์ 91 S EVO",
-     "price": 38.47,
+     "price": 37.77,
      "since": "2026-11-19T05:00",
-     "tomorrow": 37.77
+     "tomorrow": null
     },
     {
      "product": "gasohol_95",
      "label": "แก๊สโซฮอล์ 95",
      "name": "แก๊สโซฮอล์ 95 S EVO",
-     "price": 38.84,
+     "price": 38.14,
      "since": "2026-11-19T05:00",
-     "tomorrow": 38.14
+     "tomorrow": null
     }
    ]
   }
