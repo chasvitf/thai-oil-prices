@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:50",
+ "updated": "2026-11-25T11:59",
  "date": "2026-11-25",
  "brands": {
   "ptt": {
@@ -86,17 +86,17 @@
      "product": "diesel_b20",
      "label": "ดีเซล B20",
      "name": "ดีเซล B20",
-     "price": 33.5,
+     "price": 32.9,
      "since": "2026-11-25T05:00",
-     "tomorrow": 32.9
+     "tomorrow": null
     },
     {
      "product": "diesel",
      "label": "ดีเซล",
      "name": "ไฮดีเซล S",
-     "price": 39.94,
+     "price": 39.34,
      "since": "2026-11-25T05:00",
-     "tomorrow": 39.34
+     "tomorrow": null
     },
     {
      "product": "premium_diesel",
